@@ -1,0 +1,5915 @@
+[
+  {
+    "id": 1,
+    "name": "Aba Nigeria Temple",
+    "location": {
+      "city": "Aba",
+      "country": "Nigeria",
+      "coordinates": {
+        "lat": 5.1066,
+        "lng": 7.3667
+      },
+      "region": "Abia"
+    },
+    "address": "Aba, Abia, Nigeria",
+    "dedicationDate": "2005-08-07",
+    "status": "Operating"
+  },
+  {
+    "id": 2,
+    "name": "Abidjan Ivory Coast Temple",
+    "location": {
+      "city": "Abidjan",
+      "country": "Côte d'Ivoire",
+      "coordinates": {
+        "lat": 5.36,
+        "lng": -4.0083
+      }
+    },
+    "address": "Abidjan, Côte d'Ivoire",
+    "dedicationDate": "2025-05-25",
+    "status": "Dedicated"
+  },
+  {
+    "id": 3,
+    "name": "Abuja Nigeria Temple",
+    "location": {
+      "city": "Nigeria",
+      "country": "Nigeria",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Nigeria",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 4,
+    "name": "Accra Ghana Temple",
+    "location": {
+      "city": "Accra",
+      "country": "Ghana",
+      "coordinates": {
+        "lat": 5.6037,
+        "lng": -0.187
+      },
+      "region": "Greater Accra"
+    },
+    "address": "Accra, Greater Accra, Ghana",
+    "dedicationDate": "2004-01-11",
+    "status": "Operating"
+  },
+  {
+    "id": 5,
+    "name": "Adelaide Australia Temple",
+    "location": {
+      "city": "Marden",
+      "country": "Australia",
+      "coordinates": {
+        "lat": -34.8736,
+        "lng": 138.6594
+      },
+      "region": "South Australia"
+    },
+    "address": "Marden, South Australia, Australia",
+    "dedicationDate": "2000-06-15",
+    "status": "Operating"
+  },
+  {
+    "id": 6,
+    "name": "Alabang Philippines Temple",
+    "location": {
+      "city": "Philippines",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Philippines",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 7,
+    "name": "Albuquerque New Mexico Temple",
+    "location": {
+      "city": "Albuquerque",
+      "country": "United States",
+      "coordinates": {
+        "lat": 35.0844,
+        "lng": -106.6504
+      },
+      "state": "New Mexico"
+    },
+    "address": "Albuquerque, New Mexico, United States",
+    "dedicationDate": "2000-03-05",
+    "status": "Operating"
+  },
+  {
+    "id": 8,
+    "name": "Anchorage Alaska Temple",
+    "location": {
+      "city": "Anchorage",
+      "country": "United States",
+      "coordinates": {
+        "lat": 61.2181,
+        "lng": -149.9003
+      },
+      "state": "Alaska"
+    },
+    "address": "Anchorage, Alaska, United States",
+    "dedicationDate": "1999-01-09",
+    "status": "Operating"
+  },
+  {
+    "id": 9,
+    "name": "Antananarivo Madagascar Temple",
+    "location": {
+      "city": "Madagascar",
+      "country": "Madagascar",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Madagascar",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 10,
+    "name": "Antofagasta Chile Temple",
+    "location": {
+      "city": "Antofagasta",
+      "country": "Chile",
+      "coordinates": {
+        "lat": -23.6509,
+        "lng": -70.3975
+      }
+    },
+    "address": "Antofagasta, Chile",
+    "dedicationDate": "2025-06-15",
+    "status": "Dedicated"
+  },
+  {
+    "id": 11,
+    "name": "Apia Samoa Temple",
+    "location": {
+      "city": "Apia",
+      "country": "Samoa",
+      "coordinates": {
+        "lat": -13.8506,
+        "lng": -171.7513
+      },
+      "region": "Pesega"
+    },
+    "address": "Apia, Pesega, Samoa",
+    "dedicationDate": "1983-08-05",
+    "status": "Operating"
+  },
+  {
+    "id": 12,
+    "name": "Arequipa Peru Temple",
+    "location": {
+      "city": "Arequipa",
+      "country": "Peru",
+      "coordinates": {
+        "lat": -16.409,
+        "lng": -71.5375
+      }
+    },
+    "address": "Arequipa, Peru",
+    "dedicationDate": "2019-12-15",
+    "status": "Operating"
+  },
+  {
+    "id": 13,
+    "name": "Asunción Paraguay Temple",
+    "location": {
+      "city": "Asunción",
+      "country": "Paraguay",
+      "coordinates": {
+        "lat": -25.2637,
+        "lng": -57.5759
+      },
+      "region": "Alto Paraguay"
+    },
+    "address": "Asunción, Alto Paraguay, Paraguay",
+    "dedicationDate": "2002-05-19",
+    "status": "Operating"
+  },
+  {
+    "id": 14,
+    "name": "Atlanta Georgia Temple",
+    "location": {
+      "city": "Sandy Springs",
+      "country": "United States",
+      "coordinates": {
+        "lat": 33.9304,
+        "lng": -84.3733
+      },
+      "state": "Georgia"
+    },
+    "address": "Sandy Springs, Georgia, United States",
+    "dedicationDate": "1983-06-01",
+    "status": "Operating"
+  },
+  {
+    "id": 15,
+    "name": "Auckland New Zealand Temple",
+    "location": {
+      "city": "Auckland",
+      "country": "New Zealand",
+      "coordinates": {
+        "lat": -36.8485,
+        "lng": 174.7633
+      }
+    },
+    "address": "Auckland, New Zealand",
+    "dedicationDate": "2025-04-13",
+    "status": "Dedicated"
+  },
+  {
+    "id": 16,
+    "name": "Austin Texas Temple",
+    "location": {
+      "city": "Texas",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Texas, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 17,
+    "name": "Bacolod Philippines Temple",
+    "location": {
+      "city": "Lanao Del Norte",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Lanao Del Norte, Philippines",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 18,
+    "name": "Bahía Blanca Argentina Temple",
+    "location": {
+      "city": "Argentina",
+      "country": "Argentina",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Argentina",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 19,
+    "name": "Bakersfield California Temple",
+    "location": {
+      "city": "California",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "California, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 20,
+    "name": "Bangkok Thailand Temple",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "coordinates": {
+        "lat": 13.7563,
+        "lng": 100.5018
+      }
+    },
+    "address": "Bangkok, Thailand",
+    "dedicationDate": "2023-10-22",
+    "status": "Operating"
+  },
+  {
+    "id": 21,
+    "name": "Barcelona Spain Temple",
+    "location": {
+      "city": "Spain",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Spain",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 22,
+    "name": "Barranquilla Colombia Temple",
+    "location": {
+      "city": "Barranquilla",
+      "country": "Colombia",
+      "coordinates": {
+        "lat": 10.9685,
+        "lng": -74.7813
+      }
+    },
+    "address": "Barranquilla, Colombia",
+    "dedicationDate": "2018-12-09",
+    "status": "Operating"
+  },
+  {
+    "id": 23,
+    "name": "Baton Rouge Louisiana Temple",
+    "location": {
+      "city": "Baton Rouge",
+      "country": "United States",
+      "coordinates": {
+        "lat": 30.4515,
+        "lng": -91.1871
+      },
+      "state": "Louisiana"
+    },
+    "address": "Baton Rouge, Louisiana, United States",
+    "dedicationDate": "2000-07-16",
+    "status": "Operating"
+  },
+  {
+    "id": 24,
+    "name": "Beira Mozambique Temple",
+    "location": {
+      "city": "Mozambique",
+      "country": "Mozambique",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mozambique",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 25,
+    "name": "Belém Brazil Temple",
+    "location": {
+      "city": "Belém",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": -1.4558,
+        "lng": -48.5044
+      },
+      "region": "Para"
+    },
+    "address": "Belém, Para, Brazil",
+    "dedicationDate": "2022-11-20",
+    "status": "Operating"
+  },
+  {
+    "id": 26,
+    "name": "Belo Horizonte Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 27,
+    "name": "Bengaluru India Temple",
+    "location": {
+      "city": "Bangalore",
+      "country": "India",
+      "coordinates": {
+        "lat": 12.9716,
+        "lng": 77.5946
+      }
+    },
+    "address": "Bangalore, India",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 28,
+    "name": "Benin City Nigeria Temple",
+    "location": {
+      "city": "Nigeria",
+      "country": "Nigeria",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Nigeria",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 29,
+    "name": "Bentonville Arkansas Temple",
+    "location": {
+      "city": "Bentonville",
+      "country": "United States",
+      "coordinates": {
+        "lat": 36.3729,
+        "lng": -94.2088
+      },
+      "state": "Arkansas"
+    },
+    "address": "Bentonville, Arkansas, United States",
+    "dedicationDate": "2023-09-17",
+    "status": "Operating"
+  },
+  {
+    "id": 30,
+    "name": "Bern Switzerland Temple",
+    "location": {
+      "city": "Zollikofen",
+      "country": "Switzerland",
+      "coordinates": {
+        "lat": 46.9969,
+        "lng": 7.4653
+      },
+      "region": "Bern"
+    },
+    "address": "Zollikofen, Bern, Switzerland",
+    "dedicationDate": "1955-09-11",
+    "status": "Operating"
+  },
+  {
+    "id": 31,
+    "name": "Billings Montana Temple",
+    "location": {
+      "city": "Billings",
+      "country": "United States",
+      "coordinates": {
+        "lat": 45.7833,
+        "lng": -108.5007
+      },
+      "state": "Montana"
+    },
+    "address": "Billings, Montana, United States",
+    "dedicationDate": "1999-11-20",
+    "status": "Operating"
+  },
+  {
+    "id": 32,
+    "name": "Birmingham Alabama Temple",
+    "location": {
+      "city": "Gardendale",
+      "country": "United States",
+      "coordinates": {
+        "lat": 33.6661,
+        "lng": -86.8123
+      },
+      "state": "Alabama"
+    },
+    "address": "Gardendale, Alabama, United States",
+    "dedicationDate": "2000-09-03",
+    "status": "Operating"
+  },
+  {
+    "id": 33,
+    "name": "Birmingham England Temple",
+    "location": {
+      "city": "United Kingdom",
+      "country": "United Kingdom",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "United Kingdom",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 34,
+    "name": "Bismarck North Dakota Temple",
+    "location": {
+      "city": "Bismarck",
+      "country": "United States",
+      "coordinates": {
+        "lat": 46.8083,
+        "lng": -100.7837
+      },
+      "state": "North Dakota"
+    },
+    "address": "Bismarck, North Dakota, United States",
+    "dedicationDate": "1999-09-19",
+    "status": "Operating"
+  },
+  {
+    "id": 35,
+    "name": "Bogotá Colombia Temple",
+    "location": {
+      "city": "Bogotá",
+      "country": "Colombia",
+      "coordinates": {
+        "lat": 4.711,
+        "lng": -74.0721
+      },
+      "region": "Distrito Capital"
+    },
+    "address": "Bogotá, Distrito Capital, Colombia",
+    "dedicationDate": "1999-04-24",
+    "status": "Operating"
+  },
+  {
+    "id": 36,
+    "name": "Boise Idaho Temple",
+    "location": {
+      "city": "Boise",
+      "country": "United States",
+      "coordinates": {
+        "lat": 43.615,
+        "lng": -116.2023
+      },
+      "state": "Idaho"
+    },
+    "address": "Boise, Idaho, United States",
+    "dedicationDate": "1984-05-25",
+    "status": "Operating"
+  },
+  {
+    "id": 37,
+    "name": "Boston Massachusetts Temple",
+    "location": {
+      "city": "Belmont",
+      "country": "United States",
+      "coordinates": {
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "state": "Massachusetts"
+    },
+    "address": "Belmont, Massachusetts, United States",
+    "dedicationDate": "2000-10-01",
+    "status": "Operating"
+  },
+  {
+    "id": 38,
+    "name": "Bountiful Utah Temple",
+    "location": {
+      "city": "Bountiful",
+      "country": "United States",
+      "coordinates": {
+        "lat": 40.8694,
+        "lng": -111.8581
+      },
+      "state": "Utah"
+    },
+    "address": "Bountiful, Utah, United States",
+    "dedicationDate": "1995-01-08",
+    "status": "Operating"
+  },
+  {
+    "id": 39,
+    "name": "Brasília Brazil Temple",
+    "location": {
+      "city": "Brasilia",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": -15.8267,
+        "lng": -47.9218
+      }
+    },
+    "address": "Brasilia, Brazil",
+    "dedicationDate": "2023-09-17",
+    "status": "Operating"
+  },
+  {
+    "id": 40,
+    "name": "Brazzaville Republic of the Congo Temple",
+    "location": {
+      "city": "Republic of the Congo",
+      "country": "Republic of the Congo",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Republic of the Congo",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 41,
+    "name": "Brigham City Utah Temple",
+    "location": {
+      "city": "Brigham City",
+      "country": "United States",
+      "coordinates": {
+        "lat": 41.5102,
+        "lng": -112.0155
+      },
+      "state": "Utah"
+    },
+    "address": "Brigham City, Utah, United States",
+    "dedicationDate": "2012-09-23",
+    "status": "Operating"
+  },
+  {
+    "id": 42,
+    "name": "Brisbane Australia South Temple",
+    "location": {
+      "city": "Australia",
+      "country": "Australia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Australia",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 43,
+    "name": "Brisbane Australia Temple",
+    "location": {
+      "city": "Kangaroo Point",
+      "country": "Australia",
+      "coordinates": {
+        "lat": -27.4816,
+        "lng": 153.0384
+      },
+      "region": "Queensland"
+    },
+    "address": "Kangaroo Point, Queensland, Australia",
+    "dedicationDate": "2003-06-15",
+    "status": "Operating"
+  },
+  {
+    "id": 44,
+    "name": "Brussels Belgium Temple",
+    "location": {
+      "city": "Belgium",
+      "country": "Belgium",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Belgium",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 45,
+    "name": "Budapest Hungary Temple",
+    "location": {
+      "city": "Hungary",
+      "country": "Hungary",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Hungary",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 46,
+    "name": "Buenos Aires Argentina Temple",
+    "location": {
+      "city": "Ciudad Evita",
+      "country": "Argentina",
+      "coordinates": {
+        "lat": -34.6667,
+        "lng": -58.5333
+      },
+      "region": "Buenos Aires"
+    },
+    "address": "Ciudad Evita, Buenos Aires, Argentina",
+    "dedicationDate": "1986-01-17",
+    "status": "Operating"
+  },
+  {
+    "id": 47,
+    "name": "Buenos Aires City Center Argentina Temple",
+    "location": {
+      "city": "Argentina",
+      "country": "Argentina",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Argentina",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 48,
+    "name": "Burley Idaho Temple",
+    "location": {
+      "city": "United States",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 49,
+    "name": "Busan Korea Temple",
+    "location": {
+      "city": "South Korea",
+      "country": "South Korea",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "South Korea",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 50,
+    "name": "Cagayan de Oro Philippines Temple",
+    "location": {
+      "city": "Philippines",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Philippines",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 51,
+    "name": "Calabar Nigeria Temple",
+    "location": {
+      "city": "Nigeria",
+      "country": "Nigeria",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Nigeria",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 52,
+    "name": "Caldwell Idaho Temple",
+    "location": {
+      "city": "Idaho",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Idaho, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 53,
+    "name": "Calgary Alberta Temple",
+    "location": {
+      "city": "Calgary",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Alberta"
+    },
+    "address": "Calgary, Alberta, Canada",
+    "dedicationDate": "2012-10-28",
+    "status": "Operating"
+  },
+  {
+    "id": 54,
+    "name": "Cali Colombia Temple",
+    "location": {
+      "city": "Colombia",
+      "country": "Colombia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Colombia",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 55,
+    "name": "Campinas Brazil Temple",
+    "location": {
+      "city": "Campinas",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Sao Paulo"
+    },
+    "address": "Campinas, Sao Paulo, Brazil",
+    "dedicationDate": "2002-05-17",
+    "status": "Operating"
+  },
+  {
+    "id": 56,
+    "name": "Campo Grande Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 57,
+    "name": "Cancún Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 58,
+    "name": "Cape Coast Ghana Temple",
+    "location": {
+      "city": "Ghana",
+      "country": "Ghana",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Ghana",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 59,
+    "name": "Cape Town South Africa Temple",
+    "location": {
+      "city": "South Africa",
+      "country": "South Africa",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "South Africa",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 60,
+    "name": "Caracas Venezuela Temple",
+    "location": {
+      "city": "Caracas",
+      "country": "Venezuela",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Dependencias Federales"
+    },
+    "address": "Caracas, Dependencias Federales, Venezuela",
+    "dedicationDate": "2000-08-20",
+    "status": "Operating"
+  },
+  {
+    "id": 61,
+    "name": "Cardston Alberta Temple",
+    "location": {
+      "city": "Cardston",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Alberta"
+    },
+    "address": "Cardston, Alberta, Canada",
+    "dedicationDate": "1923-08-26",
+    "status": "Operating"
+  },
+  {
+    "id": 62,
+    "name": "Casper Wyoming Temple",
+    "location": {
+      "city": "Casper",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Wyoming"
+    },
+    "address": "Casper, Wyoming, United States",
+    "dedicationDate": "2024-11-24",
+    "status": "Operating"
+  },
+  {
+    "id": 63,
+    "name": "Cebu City Philippines Temple",
+    "location": {
+      "city": "Cebu City",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Cebu"
+    },
+    "address": "Cebu City, Cebu, Philippines",
+    "dedicationDate": "2010-06-13",
+    "status": "Operating"
+  },
+  {
+    "id": 64,
+    "name": "Cedar City Utah Temple",
+    "location": {
+      "city": "Cedar City",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Cedar City, Utah, United States",
+    "dedicationDate": "2017-12-10",
+    "status": "Operating"
+  },
+  {
+    "id": 65,
+    "name": "Charlotte North Carolina Temple",
+    "location": {
+      "city": "North Carolina",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "North Carolina, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 66,
+    "name": "Chicago Illinois Temple",
+    "location": {
+      "city": "Glenview",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Illinois"
+    },
+    "address": "Glenview, Illinois, United States",
+    "dedicationDate": "1985-08-09",
+    "status": "Operating"
+  },
+  {
+    "id": 67,
+    "name": "Chiclayo Peru Temple",
+    "location": {
+      "city": "Peru",
+      "country": "Peru",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Peru",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 68,
+    "name": "Chihuahua Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 69,
+    "name": "Chorrillos Peru Temple",
+    "location": {
+      "city": "Peru",
+      "country": "Peru",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Peru",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 70,
+    "name": "Cincinnati Ohio Temple",
+    "location": {
+      "city": "Ohio",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Ohio, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 71,
+    "name": "Ciudad Juárez Mexico Temple",
+    "location": {
+      "city": "Ciudad Juárez",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Chihuahua"
+    },
+    "address": "Ciudad Juárez, Chihuahua, Mexico",
+    "dedicationDate": "2000-02-26",
+    "status": "Operating"
+  },
+  {
+    "id": 72,
+    "name": "Cleveland Ohio Temple",
+    "location": {
+      "city": "Ohio",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Ohio, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 73,
+    "name": "Cobán Guatemala Temple",
+    "location": {
+      "city": "Coban",
+      "country": "Guatemala",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Coban, Guatemala",
+    "dedicationDate": "2024-06-09",
+    "status": "Operating"
+  },
+  {
+    "id": 74,
+    "name": "Cochabamba Bolivia Temple",
+    "location": {
+      "city": "Alto Queru Queru",
+      "country": "Bolivia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Cochabamba"
+    },
+    "address": "Alto Queru Queru, Cochabamba, Bolivia",
+    "dedicationDate": "2000-04-30",
+    "status": "Operating"
+  },
+  {
+    "id": 75,
+    "name": "Cody Wyoming Temple",
+    "location": {
+      "city": "Wyoming",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Wyoming, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 76,
+    "name": "Coeur d'Alene Idaho Temple",
+    "location": {
+      "city": "Idaho",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Idaho, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 77,
+    "name": "Colonia Juárez Chihuahua Mexico Temple",
+    "location": {
+      "city": "Colonia Juárez",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Chihuahua"
+    },
+    "address": "Colonia Juárez, Chihuahua, Mexico",
+    "dedicationDate": "1999-03-06",
+    "status": "Operating"
+  },
+  {
+    "id": 78,
+    "name": "Colorado Springs Colorado Temple",
+    "location": {
+      "city": "Colorado",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Colorado, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 79,
+    "name": "Columbia River Washington Temple",
+    "location": {
+      "city": "Richland",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Washington"
+    },
+    "address": "Richland, Washington, United States",
+    "dedicationDate": "2001-11-18",
+    "status": "Operating"
+  },
+  {
+    "id": 80,
+    "name": "Columbia South Carolina Temple",
+    "location": {
+      "city": "Hopkins",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "South Carolina"
+    },
+    "address": "Hopkins, South Carolina, United States",
+    "dedicationDate": "1999-10-16",
+    "status": "Operating"
+  },
+  {
+    "id": 81,
+    "name": "Columbus Ohio Temple",
+    "location": {
+      "city": "Columbus",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Ohio"
+    },
+    "address": "Columbus, Ohio, United States",
+    "dedicationDate": "1999-09-04",
+    "status": "Operating"
+  },
+  {
+    "id": 82,
+    "name": "Concepción Chile Temple",
+    "location": {
+      "city": "Concepcion",
+      "country": "Chile",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Concepcion, Chile",
+    "dedicationDate": "2018-10-28",
+    "status": "Operating"
+  },
+  {
+    "id": 83,
+    "name": "Copenhagen Denmark Temple",
+    "location": {
+      "city": "Frederiksberg",
+      "country": "Denmark",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Hovedstaden"
+    },
+    "address": "Frederiksberg, Hovedstaden, Denmark",
+    "dedicationDate": "2004-05-23",
+    "status": "Operating"
+  },
+  {
+    "id": 84,
+    "name": "Córdoba Argentina Temple",
+    "location": {
+      "city": "Córdoba",
+      "country": "Argentina",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Córdoba, Argentina",
+    "dedicationDate": "2015-05-17",
+    "status": "Operating"
+  },
+  {
+    "id": 85,
+    "name": "Cuernavaca Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 86,
+    "name": "Culiacán Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 87,
+    "name": "Curitiba Brazil Temple",
+    "location": {
+      "city": "Curitiba",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Parana"
+    },
+    "address": "Curitiba, Parana, Brazil",
+    "dedicationDate": "2008-06-01",
+    "status": "Operating"
+  },
+  {
+    "id": 88,
+    "name": "Cusco Peru Temple",
+    "location": {
+      "city": "Peru",
+      "country": "Peru",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Peru",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 89,
+    "name": "Dallas Texas Temple",
+    "location": {
+      "city": "Dallas",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Texas"
+    },
+    "address": "Dallas, Texas, United States",
+    "dedicationDate": "1984-10-19",
+    "status": "Operating"
+  },
+  {
+    "id": 90,
+    "name": "Davao Philippines Temple",
+    "location": {
+      "city": "Davao",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Davao, Philippines",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 91,
+    "name": "Denver Colorado Temple",
+    "location": {
+      "city": "Centennial",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Colorado"
+    },
+    "address": "Centennial, Colorado, United States",
+    "dedicationDate": "1986-10-24",
+    "status": "Operating"
+  },
+  {
+    "id": 92,
+    "name": "Des Moines Iowa Temple",
+    "location": {
+      "city": "Iowa",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Iowa, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 93,
+    "name": "Deseret Peak Utah Temple",
+    "location": {
+      "city": "Tooele",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Tooele, Utah, United States",
+    "dedicationDate": "2024-11-10",
+    "status": "Operating"
+  },
+  {
+    "id": 94,
+    "name": "Detroit Michigan Temple",
+    "location": {
+      "city": "Bloomfield Hills",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Michigan"
+    },
+    "address": "Bloomfield Hills, Michigan, United States",
+    "dedicationDate": "1999-10-23",
+    "status": "Operating"
+  },
+  {
+    "id": 95,
+    "name": "Draper Utah Temple",
+    "location": {
+      "city": "Draper",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Draper, Utah, United States",
+    "dedicationDate": "2009-03-20",
+    "status": "Operating"
+  },
+  {
+    "id": 96,
+    "name": "Dubai United Arab Emirates Temple",
+    "location": {
+      "city": "United Arab Emirates",
+      "country": "United Arab Emirates",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "United Arab Emirates",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 97,
+    "name": "Dublin Ireland Temple",
+    "location": {
+      "city": "Ireland",
+      "country": "Ireland",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Ireland",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 98,
+    "name": "Durban South Africa Temple",
+    "location": {
+      "city": "Durban",
+      "country": "South Africa",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Durban, South Africa",
+    "dedicationDate": "2020-02-16",
+    "status": "Operating"
+  },
+  {
+    "id": 99,
+    "name": "Edinburgh Scotland Temple",
+    "location": {
+      "city": "United Kingdom",
+      "country": "United Kingdom",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "United Kingdom",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 100,
+    "name": "Edmonton Alberta Temple",
+    "location": {
+      "city": "Edmonton",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Alberta"
+    },
+    "address": "Edmonton, Alberta, Canada",
+    "dedicationDate": "1999-12-11",
+    "status": "Operating"
+  },
+  {
+    "id": 101,
+    "name": "Eket Nigeria Temple",
+    "location": {
+      "city": "Nigeria",
+      "country": "Nigeria",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Nigeria",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 102,
+    "name": "El Paso Texas Temple",
+    "location": {
+      "city": "Texas",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Texas, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 103,
+    "name": "Elko Nevada Temple",
+    "location": {
+      "city": "Nevada",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Nevada, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 104,
+    "name": "Ephraim Utah Temple",
+    "location": {
+      "city": "Utah",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Utah, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 105,
+    "name": "Fairbanks Alaska Temple",
+    "location": {
+      "city": "Alaska",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Alaska, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 106,
+    "name": "Fairview Texas Temple",
+    "location": {
+      "city": "Texas",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Texas, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 107,
+    "name": "Farmington New Mexico Temple",
+    "location": {
+      "city": "New Mexico",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "New Mexico, United States",
+    "dedicationDate": "2025-08-17",
+    "status": "Dedicated"
+  },
+  {
+    "id": 108,
+    "name": "Feather River California Temple",
+    "location": {
+      "city": "Yuba City",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "California"
+    },
+    "address": "Yuba City, California, United States",
+    "dedicationDate": "2023-10-08",
+    "status": "Operating"
+  },
+  {
+    "id": 109,
+    "name": "Flagstaff Arizona Temple",
+    "location": {
+      "city": "Arizona",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Arizona, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 110,
+    "name": "Florianopolis Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 111,
+    "name": "Fort Collins Colorado Temple",
+    "location": {
+      "city": "Fort Collins",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Colorado"
+    },
+    "address": "Fort Collins, Colorado, United States",
+    "dedicationDate": "2016-10-16",
+    "status": "Operating"
+  },
+  {
+    "id": 112,
+    "name": "Fort Lauderdale Florida Temple",
+    "location": {
+      "city": "Davie",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Florida"
+    },
+    "address": "Davie, Florida, United States",
+    "dedicationDate": "2014-05-04",
+    "status": "Operating"
+  },
+  {
+    "id": 113,
+    "name": "Fort Worth Texas Temple",
+    "location": {
+      "city": "Texas",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Texas, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 114,
+    "name": "Fortaleza Brazil Temple",
+    "location": {
+      "city": "Fortaleza",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Ceara"
+    },
+    "address": "Fortaleza, Ceara, Brazil",
+    "dedicationDate": "2019-06-02",
+    "status": "Operating"
+  },
+  {
+    "id": 115,
+    "name": "Frankfurt Germany Temple",
+    "location": {
+      "city": "Friedrichsdorf",
+      "country": "Germany",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Hessen"
+    },
+    "address": "Friedrichsdorf, Hessen, Germany",
+    "dedicationDate": "1987-08-28",
+    "status": "Operating"
+  },
+  {
+    "id": 116,
+    "name": "Freetown Sierra Leone Temple",
+    "location": {
+      "city": "Sierra Leone",
+      "country": "Sierra Leone",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Sierra Leone",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 117,
+    "name": "Freiberg Germany Temple",
+    "location": {
+      "city": "Freiberg",
+      "country": "Germany",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Sachsen"
+    },
+    "address": "Freiberg, Sachsen, Germany",
+    "dedicationDate": "1985-06-29",
+    "status": "Operating"
+  },
+  {
+    "id": 118,
+    "name": "Fresno California Temple",
+    "location": {
+      "city": "Fresno",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "California"
+    },
+    "address": "Fresno, California, United States",
+    "dedicationDate": "2000-04-09",
+    "status": "Operating"
+  },
+  {
+    "id": 119,
+    "name": "Fukuoka Japan Temple",
+    "location": {
+      "city": "Fukuoka-shi",
+      "country": "Japan",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Fukuoka"
+    },
+    "address": "Fukuoka-shi, Fukuoka, Japan",
+    "dedicationDate": "2000-06-11",
+    "status": "Operating"
+  },
+  {
+    "id": 120,
+    "name": "Gilbert Arizona Temple",
+    "location": {
+      "city": "Gilbert",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Arizona"
+    },
+    "address": "Gilbert, Arizona, United States",
+    "dedicationDate": "2014-03-02",
+    "status": "Operating"
+  },
+  {
+    "id": 121,
+    "name": "Goiânia Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 122,
+    "name": "Grand Junction Colorado Temple",
+    "location": {
+      "city": "Colorado",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Colorado, United States",
+    "dedicationDate": null,
+    "status": "Opening Soon"
+  },
+  {
+    "id": 123,
+    "name": "Grand Rapids Michigan Temple",
+    "location": {
+      "city": "Michigan",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Michigan, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 124,
+    "name": "Greenville South Carolina Temple",
+    "location": {
+      "city": "South Carolina",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "South Carolina, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 125,
+    "name": "Guadalajara Mexico Temple",
+    "location": {
+      "city": "Zapopan",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Jalisco"
+    },
+    "address": "Zapopan, Jalisco, Mexico",
+    "dedicationDate": "2001-04-29",
+    "status": "Operating"
+  },
+  {
+    "id": 126,
+    "name": "Guatemala City Guatemala Temple",
+    "location": {
+      "city": "Guatemala City",
+      "country": "Guatemala",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Guatemala"
+    },
+    "address": "Guatemala City, Guatemala, Guatemala",
+    "dedicationDate": "1984-12-14",
+    "status": "Operating"
+  },
+  {
+    "id": 127,
+    "name": "Guayaquil Ecuador Temple",
+    "location": {
+      "city": "Guayaquil",
+      "country": "Ecuador",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Guayas"
+    },
+    "address": "Guayaquil, Guayas, Ecuador",
+    "dedicationDate": "1999-08-01",
+    "status": "Operating"
+  },
+  {
+    "id": 128,
+    "name": "Halifax Nova Scotia Temple",
+    "location": {
+      "city": "Dartmouth",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Nova Scotia"
+    },
+    "address": "Dartmouth, Nova Scotia, Canada",
+    "dedicationDate": "1999-11-14",
+    "status": "Operating"
+  },
+  {
+    "id": 129,
+    "name": "Hamburg Germany Temple",
+    "location": {
+      "city": "Germany",
+      "country": "Germany",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Germany",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 130,
+    "name": "Hamilton New Zealand Temple",
+    "location": {
+      "city": "Hamilton",
+      "country": "New Zealand",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Auckland"
+    },
+    "address": "Hamilton, Auckland, New Zealand",
+    "dedicationDate": "1958-04-20",
+    "status": "Operating"
+  },
+  {
+    "id": 131,
+    "name": "Harare Zimbabwe Temple",
+    "location": {
+      "city": "Harare",
+      "country": "Zimbabwe",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Harare, Zimbabwe",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 132,
+    "name": "Harrisburg Pennsylvania Temple",
+    "location": {
+      "city": "Pennsylvania",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Pennsylvania, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 133,
+    "name": "Hartford Connecticut Temple",
+    "location": {
+      "city": "Farmington",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Connecticut"
+    },
+    "address": "Farmington, Connecticut, United States",
+    "dedicationDate": "2016-11-20",
+    "status": "Operating"
+  },
+  {
+    "id": 134,
+    "name": "Heber Valley Utah Temple",
+    "location": {
+      "city": "Utah",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Utah, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 135,
+    "name": "Helena Montana Temple",
+    "location": {
+      "city": "Helena",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Montana"
+    },
+    "address": "Helena, Montana, United States",
+    "dedicationDate": "2023-06-18",
+    "status": "Operating"
+  },
+  {
+    "id": 136,
+    "name": "Helsinki Finland Temple",
+    "location": {
+      "city": "Espoo",
+      "country": "Finland",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Uusimaa"
+    },
+    "address": "Espoo, Uusimaa, Finland",
+    "dedicationDate": "2006-10-22",
+    "status": "Operating"
+  },
+  {
+    "id": 137,
+    "name": "Hermosillo Sonora Mexico Temple",
+    "location": {
+      "city": "Hermosillo",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Sonora"
+    },
+    "address": "Hermosillo, Sonora, Mexico",
+    "dedicationDate": "2000-02-27",
+    "status": "Operating"
+  },
+  {
+    "id": 138,
+    "name": "Hong Kong China Temple",
+    "location": {
+      "city": "Kowloon Tong",
+      "country": "Hong Kong",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Kowloon City"
+    },
+    "address": "Kowloon Tong, Kowloon City, Hong Kong",
+    "dedicationDate": "1996-05-26",
+    "status": "Operating"
+  },
+  {
+    "id": 139,
+    "name": "Honolulu Hawaii Temple",
+    "location": {
+      "city": "Hawaii",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Hawaii, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 140,
+    "name": "Houston Texas South Temple",
+    "location": {
+      "city": "Texas",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Texas, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 141,
+    "name": "Houston Texas Temple",
+    "location": {
+      "city": "Spring",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Texas"
+    },
+    "address": "Spring, Texas, United States",
+    "dedicationDate": "2000-08-26",
+    "status": "Operating"
+  },
+  {
+    "id": 142,
+    "name": "Huancayo Peru Temple",
+    "location": {
+      "city": "Peru",
+      "country": "Peru",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Peru",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 143,
+    "name": "Huehuetenango Guatemala Temple",
+    "location": {
+      "city": "Guatemala",
+      "country": "Guatemala",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Guatemala",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 144,
+    "name": "Huntsville Alabama Temple",
+    "location": {
+      "city": "Alabama",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Alabama, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 145,
+    "name": "Idaho Falls Idaho Temple",
+    "location": {
+      "city": "Idaho Falls",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Idaho"
+    },
+    "address": "Idaho Falls, Idaho, United States",
+    "dedicationDate": "1945-09-23",
+    "status": "Operating"
+  },
+  {
+    "id": 146,
+    "name": "Iloilo Philippines Temple",
+    "location": {
+      "city": "Philippines",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Philippines",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 147,
+    "name": "Indianapolis Indiana Temple",
+    "location": {
+      "city": "Carmel",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Indiana"
+    },
+    "address": "Carmel, Indiana, United States",
+    "dedicationDate": "2015-08-23",
+    "status": "Operating"
+  },
+  {
+    "id": 148,
+    "name": "Iquitos Peru Temple",
+    "location": {
+      "city": "Peru",
+      "country": "Peru",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Peru",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 149,
+    "name": "Jacksonville Florida Temple",
+    "location": {
+      "city": "Florida",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Florida, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 150,
+    "name": "Jakarta Indonesia Temple",
+    "location": {
+      "city": "Indonesia",
+      "country": "Indonesia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Indonesia",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 151,
+    "name": "João Pessoa Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 152,
+    "name": "Johannesburg South Africa Temple",
+    "location": {
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Gauteng"
+    },
+    "address": "Johannesburg, Gauteng, South Africa",
+    "dedicationDate": "1985-08-24",
+    "status": "Operating"
+  },
+  {
+    "id": 153,
+    "name": "Jordan River Utah Temple",
+    "location": {
+      "city": "South Jordan",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "South Jordan, Utah, United States",
+    "dedicationDate": "1981-11-16",
+    "status": "Operating"
+  },
+  {
+    "id": 154,
+    "name": "Juchitán de Zaragoza Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 155,
+    "name": "Kahului Hawaii Temple",
+    "location": {
+      "city": "Hawaii",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Hawaii, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 156,
+    "name": "Kampala Uganda Temple",
+    "location": {
+      "city": "Uganda",
+      "country": "Uganda",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Uganda",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 157,
+    "name": "Kananga Democratic Republic of the Congo Temple",
+    "location": {
+      "city": "Democratic Republic of the Congo",
+      "country": "Democratic Republic of the Congo",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Democratic Republic of the Congo",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 158,
+    "name": "Kansas City Missouri Temple",
+    "location": {
+      "city": "Kansas City",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Missouri"
+    },
+    "address": "Kansas City, Missouri, United States",
+    "dedicationDate": "2012-05-06",
+    "status": "Operating"
+  },
+  {
+    "id": 159,
+    "name": "Kaohsiung Taiwan Temple",
+    "location": {
+      "city": "Taiwan",
+      "country": "Taiwan",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Taiwan",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 160,
+    "name": "Kinshasa Democratic Republic of the Congo Temple",
+    "location": {
+      "city": "Kinshasa",
+      "country": "Democratic Republic of the Congo",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Kinshasa, Democratic Republic of the Congo",
+    "dedicationDate": "2019-04-14",
+    "status": "Operating"
+  },
+  {
+    "id": 161,
+    "name": "Knoxville Tennessee Temple",
+    "location": {
+      "city": "Tennessee",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Tennessee, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 162,
+    "name": "Kona Hawaii Temple",
+    "location": {
+      "city": "Kailua-Kona",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Hawaii"
+    },
+    "address": "Kailua-Kona, Hawaii, United States",
+    "dedicationDate": null,
+    "status": "Renovation"
+  },
+  {
+    "id": 163,
+    "name": "Kumasi Ghana Temple",
+    "location": {
+      "city": "Ghana",
+      "country": "Ghana",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Ghana",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 164,
+    "name": "Kyiv Ukraine Temple",
+    "location": {
+      "city": "Kyevo-Sviatoshyns'ky Rayon",
+      "country": "Ukraine",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Kyiv"
+    },
+    "address": "Kyevo-Sviatoshyns'ky Rayon, Kyiv, Ukraine",
+    "dedicationDate": "2010-08-29",
+    "status": "Operating"
+  },
+  {
+    "id": 165,
+    "name": "La Paz Bolivia Temple",
+    "location": {
+      "city": "Bolivia",
+      "country": "Bolivia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Bolivia",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 166,
+    "name": "Lagos Nigeria Temple",
+    "location": {
+      "city": "Nigeria",
+      "country": "Nigeria",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Nigeria",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 167,
+    "name": "Laie Hawaii Temple",
+    "location": {
+      "city": "Laie",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Hawaii"
+    },
+    "address": "Laie, Hawaii, United States",
+    "dedicationDate": "1919-11-27",
+    "status": "Operating"
+  },
+  {
+    "id": 168,
+    "name": "Laoag Philippines Temple",
+    "location": {
+      "city": "Philippines",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Philippines",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 169,
+    "name": "Las Vegas Nevada Temple",
+    "location": {
+      "city": "Las Vegas",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Nevada"
+    },
+    "address": "Las Vegas, Nevada, United States",
+    "dedicationDate": "1989-12-16",
+    "status": "Operating"
+  },
+  {
+    "id": 170,
+    "name": "Layton Utah Temple",
+    "location": {
+      "city": "Layton",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Layton, Utah, United States",
+    "dedicationDate": "2024-06-16",
+    "status": "Operating"
+  },
+  {
+    "id": 171,
+    "name": "Lehi Utah Temple",
+    "location": {
+      "city": "Utah",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Utah, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 172,
+    "name": "Lethbridge Alberta Temple",
+    "location": {
+      "city": "Alberta",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Alberta, Canada",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 173,
+    "name": "Lima Peru Los Olivos Temple",
+    "location": {
+      "city": "Los Olivos",
+      "country": "Peru",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Lima"
+    },
+    "address": "Los Olivos, Lima, Peru",
+    "dedicationDate": "2024-01-14",
+    "status": "Operating"
+  },
+  {
+    "id": 174,
+    "name": "Lima Peru Temple",
+    "location": {
+      "city": "La Molina",
+      "country": "Peru",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Lima"
+    },
+    "address": "La Molina, Lima, Peru",
+    "dedicationDate": "1986-01-10",
+    "status": "Operating"
+  },
+  {
+    "id": 175,
+    "name": "Lindon Utah Temple",
+    "location": {
+      "city": "Lindon",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Lindon, Utah, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 176,
+    "name": "Lisbon Portugal Temple",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Lisbon, Portugal",
+    "dedicationDate": "2019-09-15",
+    "status": "Operating"
+  },
+  {
+    "id": 177,
+    "name": "Liverpool Australia Temple",
+    "location": {
+      "city": "Australia",
+      "country": "Australia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Australia",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 178,
+    "name": "Logan Utah Temple",
+    "location": {
+      "city": "Logan",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Logan, Utah, United States",
+    "dedicationDate": "1884-05-17",
+    "status": "Operating"
+  },
+  {
+    "id": 179,
+    "name": "London England Temple",
+    "location": {
+      "city": "Newchapel",
+      "country": "England",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Surrey"
+    },
+    "address": "Newchapel, Surrey, England",
+    "dedicationDate": "1958-09-07",
+    "status": "Operating"
+  },
+  {
+    "id": 180,
+    "name": "Londrina Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 181,
+    "name": "Lone Mountain Nevada Temple",
+    "location": {
+      "city": "Nevada",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Nevada, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 182,
+    "name": "Los Angeles California Temple",
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "California"
+    },
+    "address": "Los Angeles, California, United States",
+    "dedicationDate": "1956-03-11",
+    "status": "Operating"
+  },
+  {
+    "id": 183,
+    "name": "Louisville Kentucky Temple",
+    "location": {
+      "city": "Crestwood",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Kentucky"
+    },
+    "address": "Crestwood, Kentucky, United States",
+    "dedicationDate": "2000-03-19",
+    "status": "Operating"
+  },
+  {
+    "id": 184,
+    "name": "Luanda Angola Temple",
+    "location": {
+      "city": "Angola",
+      "country": "Angola",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Angola",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 185,
+    "name": "Lubbock Texas Temple",
+    "location": {
+      "city": "Lubbock",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Texas"
+    },
+    "address": "Lubbock, Texas, United States",
+    "dedicationDate": "2002-04-21",
+    "status": "Operating"
+  },
+  {
+    "id": 186,
+    "name": "Lubumbashi Democratic Republic of the Congo Temple",
+    "location": {
+      "city": "Democratic Republic of the Congo",
+      "country": "Democratic Republic of the Congo",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Democratic Republic of the Congo",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 187,
+    "name": "Maceió Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 188,
+    "name": "Madrid Spain Temple",
+    "location": {
+      "city": "Madrid",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Madrid"
+    },
+    "address": "Madrid, Madrid, Spain",
+    "dedicationDate": "1999-03-19",
+    "status": "Operating"
+  },
+  {
+    "id": 189,
+    "name": "Managua Nicaragua Temple",
+    "location": {
+      "city": "Nicaragua",
+      "country": "Nicaragua",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Nicaragua",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 190,
+    "name": "Manaus Brazil Temple",
+    "location": {
+      "city": "Manaus",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Amazonas"
+    },
+    "address": "Manaus, Amazonas, Brazil",
+    "dedicationDate": "2012-06-10",
+    "status": "Operating"
+  },
+  {
+    "id": 191,
+    "name": "Manhattan New York Temple",
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "New York"
+    },
+    "address": "New York, New York, United States",
+    "dedicationDate": null,
+    "status": "Renovation"
+  },
+  {
+    "id": 192,
+    "name": "Manila Philippines Temple",
+    "location": {
+      "city": "Quezon City",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Metro Manila"
+    },
+    "address": "Quezon City, Metro Manila, Philippines",
+    "dedicationDate": "1984-09-25",
+    "status": "Operating"
+  },
+  {
+    "id": 193,
+    "name": "Manti Utah Temple",
+    "location": {
+      "city": "Manti",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Manti, Utah, United States",
+    "dedicationDate": "1888-05-21",
+    "status": "Operating"
+  },
+  {
+    "id": 194,
+    "name": "Maputo Mozambique Temple",
+    "location": {
+      "city": "Mozambique",
+      "country": "Mozambique",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mozambique",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 195,
+    "name": "Maracaibo Venezuela Temple",
+    "location": {
+      "city": "Venezuela",
+      "country": "Venezuela",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Venezuela",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 196,
+    "name": "Mbuji-Mayi Democratic Republic of the Congo Temple",
+    "location": {
+      "city": "Democratic Republic of the Congo",
+      "country": "Democratic Republic of the Congo",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Democratic Republic of the Congo",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 197,
+    "name": "McAllen Texas Temple",
+    "location": {
+      "city": "McAllen",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Texas"
+    },
+    "address": "McAllen, Texas, United States",
+    "dedicationDate": "2023-10-08",
+    "status": "Operating"
+  },
+  {
+    "id": 198,
+    "name": "Medellín Colombia Temple",
+    "location": {
+      "city": "Colombia",
+      "country": "Colombia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Colombia",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 199,
+    "name": "Medford Oregon Temple",
+    "location": {
+      "city": "Central Point",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Oregon"
+    },
+    "address": "Central Point, Oregon, United States",
+    "dedicationDate": "2000-04-16",
+    "status": "Operating"
+  },
+  {
+    "id": 200,
+    "name": "Melbourne Australia Temple",
+    "location": {
+      "city": "Wantirna South",
+      "country": "Australia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Victoria"
+    },
+    "address": "Wantirna South, Victoria, Australia",
+    "dedicationDate": "2000-06-16",
+    "status": "Operating"
+  },
+  {
+    "id": 201,
+    "name": "Memphis Tennessee Temple",
+    "location": {
+      "city": "Bartlett",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Tennessee"
+    },
+    "address": "Bartlett, Tennessee, United States",
+    "dedicationDate": "2000-04-23",
+    "status": "Operating"
+  },
+  {
+    "id": 202,
+    "name": "Mendoza Argentina Temple",
+    "location": {
+      "city": "Mendoza",
+      "country": "Argentina",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mendoza, Argentina",
+    "dedicationDate": "2024-09-22",
+    "status": "Operating"
+  },
+  {
+    "id": 203,
+    "name": "Mérida Mexico Temple",
+    "location": {
+      "city": "Mérida",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Yucatan"
+    },
+    "address": "Mérida, Yucatan, Mexico",
+    "dedicationDate": "2000-07-08",
+    "status": "Operating"
+  },
+  {
+    "id": 204,
+    "name": "Meridian Idaho Temple",
+    "location": {
+      "city": "Meridian",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Idaho"
+    },
+    "address": "Meridian, Idaho, United States",
+    "dedicationDate": "2017-11-19",
+    "status": "Operating"
+  },
+  {
+    "id": 205,
+    "name": "Mesa Arizona Temple",
+    "location": {
+      "city": "Mesa",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Arizona"
+    },
+    "address": "Mesa, Arizona, United States",
+    "dedicationDate": "1927-10-23",
+    "status": "Operating"
+  },
+  {
+    "id": 206,
+    "name": "Mexico City Benemérito Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 207,
+    "name": "Mexico City Mexico Temple",
+    "location": {
+      "city": "México",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Distrito Federal"
+    },
+    "address": "México, Distrito Federal, Mexico",
+    "dedicationDate": "1983-12-02",
+    "status": "Operating"
+  },
+  {
+    "id": 208,
+    "name": "Milan Italy Temple",
+    "location": {
+      "city": "Italy",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Italy",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 209,
+    "name": "Milwaukee Wisconsin Temple",
+    "location": {
+      "city": "Wisconsin",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Wisconsin, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 210,
+    "name": "Miraflores Guatemala City Guatemala Temple",
+    "location": {
+      "city": "Guatemala",
+      "country": "Guatemala",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Guatemala",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 211,
+    "name": "Missoula Montana Temple",
+    "location": {
+      "city": "Montana",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Montana, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 212,
+    "name": "Modesto California Temple",
+    "location": {
+      "city": "California",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "California, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 213,
+    "name": "Monrovia Liberia Temple",
+    "location": {
+      "city": "Liberia",
+      "country": "Liberia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Liberia",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 214,
+    "name": "Monterrey Mexico Temple",
+    "location": {
+      "city": "Monterrey",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Nuevo Leon"
+    },
+    "address": "Monterrey, Nuevo Leon, Mexico",
+    "dedicationDate": "2002-04-28",
+    "status": "Operating"
+  },
+  {
+    "id": 215,
+    "name": "Montevideo Uruguay Temple",
+    "location": {
+      "city": "Carrasco",
+      "country": "Uruguay",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Montevideo"
+    },
+    "address": "Carrasco, Montevideo, Uruguay",
+    "dedicationDate": "2001-03-18",
+    "status": "Operating"
+  },
+  {
+    "id": 216,
+    "name": "Monticello Utah Temple",
+    "location": {
+      "city": "Monticello",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Monticello, Utah, United States",
+    "dedicationDate": "1998-07-26",
+    "status": "Operating"
+  },
+  {
+    "id": 217,
+    "name": "Montpelier Idaho Temple",
+    "location": {
+      "city": "Idaho",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Idaho, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 218,
+    "name": "Montreal Quebec Temple",
+    "location": {
+      "city": "Longueuil",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Quebec"
+    },
+    "address": "Longueuil, Quebec, Canada",
+    "dedicationDate": "2000-06-04",
+    "status": "Operating"
+  },
+  {
+    "id": 219,
+    "name": "Moses Lake Washington Temple",
+    "location": {
+      "city": "Moses Lake",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Washington"
+    },
+    "address": "Moses Lake, Washington, United States",
+    "dedicationDate": "2023-09-17",
+    "status": "Operating"
+  },
+  {
+    "id": 220,
+    "name": "Mount Timpanogos Utah Temple",
+    "location": {
+      "city": "American Fork",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "American Fork, Utah, United States",
+    "dedicationDate": "1996-10-13",
+    "status": "Operating"
+  },
+  {
+    "id": 221,
+    "name": "Naga Philippines Temple",
+    "location": {
+      "city": "Philippines",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Philippines",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 222,
+    "name": "Nairobi Kenya Temple",
+    "location": {
+      "city": "Nairobi",
+      "country": "Kenya",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Nairobi, Kenya",
+    "dedicationDate": "2025-05-18",
+    "status": "Dedicated"
+  },
+  {
+    "id": 223,
+    "name": "Nashville Tennessee Temple",
+    "location": {
+      "city": "Franklin",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Tennessee"
+    },
+    "address": "Franklin, Tennessee, United States",
+    "dedicationDate": "2000-05-21",
+    "status": "Operating"
+  },
+  {
+    "id": 224,
+    "name": "Natal Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 225,
+    "name": "Nauvoo Illinois Temple",
+    "location": {
+      "city": "Nauvoo",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Illinois"
+    },
+    "address": "Nauvoo, Illinois, United States",
+    "dedicationDate": "2002-06-27",
+    "status": "Operating"
+  },
+  {
+    "id": 226,
+    "name": "Neiafu Tonga Temple",
+    "location": {
+      "city": "Neiafu Vava'u",
+      "country": "Tonga",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Neiafu Vava'u, Tonga",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 227,
+    "name": "Newport Beach California Temple",
+    "location": {
+      "city": "Newport Beach",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "California"
+    },
+    "address": "Newport Beach, California, United States",
+    "dedicationDate": "2005-08-28",
+    "status": "Operating"
+  },
+  {
+    "id": 228,
+    "name": "Norfolk Virginia Temple",
+    "location": {
+      "city": "Virginia",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Virginia, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 229,
+    "name": "Nouméa New Caledonia Temple",
+    "location": {
+      "city": "New Caledonia",
+      "country": "New Caledonia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "New Caledonia",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 230,
+    "name": "Nuku'alofa Tonga Temple",
+    "location": {
+      "city": "Liahona",
+      "country": "Tonga",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Tongatapu"
+    },
+    "address": "Liahona, Tongatapu, Tonga",
+    "dedicationDate": "1983-08-09",
+    "status": "Operating"
+  },
+  {
+    "id": 231,
+    "name": "Oakland California Temple",
+    "location": {
+      "city": "Oakland",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "California"
+    },
+    "address": "Oakland, California, United States",
+    "dedicationDate": "1964-11-17",
+    "status": "Operating"
+  },
+  {
+    "id": 232,
+    "name": "Oaxaca Mexico Temple",
+    "location": {
+      "city": "Oaxaca",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Oaxaca"
+    },
+    "address": "Oaxaca, Oaxaca, Mexico",
+    "dedicationDate": "2000-03-11",
+    "status": "Operating"
+  },
+  {
+    "id": 233,
+    "name": "Ogden Utah Temple",
+    "location": {
+      "city": "Ogden",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Ogden, Utah, United States",
+    "dedicationDate": "1972-01-18",
+    "status": "Operating"
+  },
+  {
+    "id": 234,
+    "name": "Okinawa Japan Temple",
+    "location": {
+      "city": "Okinawa",
+      "country": "Japan",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Okinawa, Japan",
+    "dedicationDate": "2023-11-12",
+    "status": "Operating"
+  },
+  {
+    "id": 235,
+    "name": "Oklahoma City Oklahoma Temple",
+    "location": {
+      "city": "Yukon",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Oklahoma"
+    },
+    "address": "Yukon, Oklahoma, United States",
+    "dedicationDate": "2000-07-30",
+    "status": "Operating"
+  },
+  {
+    "id": 236,
+    "name": "Oquirrh Mountain Utah Temple",
+    "location": {
+      "city": "South Jordan",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "South Jordan, Utah, United States",
+    "dedicationDate": "2009-08-21",
+    "status": "Operating"
+  },
+  {
+    "id": 237,
+    "name": "Orem Utah Temple",
+    "location": {
+      "city": "Orem",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Orem, Utah, United States",
+    "dedicationDate": "2024-01-21",
+    "status": "Operating"
+  },
+  {
+    "id": 238,
+    "name": "Orlando Florida Temple",
+    "location": {
+      "city": "Windermere",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Florida"
+    },
+    "address": "Windermere, Florida, United States",
+    "dedicationDate": null,
+    "status": "Renovation"
+  },
+  {
+    "id": 239,
+    "name": "Osaka Japan Temple",
+    "location": {
+      "city": "Japan",
+      "country": "Japan",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Japan",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 240,
+    "name": "Oslo Norway Temple",
+    "location": {
+      "city": "Norway",
+      "country": "Norway",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Norway",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 241,
+    "name": "Pachuca Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 242,
+    "name": "Pago Pago American Samoa Temple",
+    "location": {
+      "city": "Tafuna",
+      "country": "American Samoa",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Western District"
+    },
+    "address": "Tafuna, Western District, American Samoa",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 243,
+    "name": "Palmyra New York Temple",
+    "location": {
+      "city": "Palmyra",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "New York"
+    },
+    "address": "Palmyra, New York, United States",
+    "dedicationDate": "2000-04-06",
+    "status": "Operating"
+  },
+  {
+    "id": 244,
+    "name": "Panama City Panama Temple",
+    "location": {
+      "city": "Corozal",
+      "country": "Panamá",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Ancon"
+    },
+    "address": "Corozal, Ancon, Panamá, Panama",
+    "dedicationDate": "2008-08-10",
+    "status": "Operating"
+  },
+  {
+    "id": 245,
+    "name": "Papeete Tahiti Temple",
+    "location": {
+      "city": "Papeete",
+      "country": "French Polynesia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Tahiti"
+    },
+    "address": "Papeete, Tahiti, French Polynesia",
+    "dedicationDate": "1983-10-27",
+    "status": "Operating"
+  },
+  {
+    "id": 246,
+    "name": "Paris France Temple",
+    "location": {
+      "city": "Le Chesnay",
+      "country": "France",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Le Chesnay, France",
+    "dedicationDate": "2017-05-21",
+    "status": "Operating"
+  },
+  {
+    "id": 247,
+    "name": "Payson Utah Temple",
+    "location": {
+      "city": "Payson",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Payson, Utah, United States",
+    "dedicationDate": "2015-06-07",
+    "status": "Operating"
+  },
+  {
+    "id": 248,
+    "name": "Perth Australia Temple",
+    "location": {
+      "city": "Yokine",
+      "country": "Australia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Western Australia"
+    },
+    "address": "Yokine, Western Australia, Australia",
+    "dedicationDate": "2001-05-20",
+    "status": "Operating"
+  },
+  {
+    "id": 249,
+    "name": "Philadelphia Pennsylvania Temple",
+    "location": {
+      "city": "Philadelphia",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Pennsylvania"
+    },
+    "address": "Philadelphia, Pennsylvania, United States",
+    "dedicationDate": "2016-09-18",
+    "status": "Operating"
+  },
+  {
+    "id": 250,
+    "name": "Phnom Penh Cambodia Temple",
+    "location": {
+      "city": "Phnom Penh",
+      "country": "Cambodia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Phnom Penh, Cambodia",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 251,
+    "name": "Phoenix Arizona Temple",
+    "location": {
+      "city": "Phoenix",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Arizona"
+    },
+    "address": "Phoenix, Arizona, United States",
+    "dedicationDate": "2014-11-16",
+    "status": "Operating"
+  },
+  {
+    "id": 252,
+    "name": "Pittsburgh Pennsylvania Temple",
+    "location": {
+      "city": "Cranberry Township",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Pennsylvania"
+    },
+    "address": "Cranberry Township, Pennsylvania, United States",
+    "dedicationDate": "2024-09-15",
+    "status": "Operating"
+  },
+  {
+    "id": 253,
+    "name": "Piura Peru Temple",
+    "location": {
+      "city": "Peru",
+      "country": "Peru",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Peru",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 254,
+    "name": "Pocatello Idaho Temple",
+    "location": {
+      "city": "Pocatello",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Idaho"
+    },
+    "address": "Pocatello, Idaho, United States",
+    "dedicationDate": "2021-11-07",
+    "status": "Operating"
+  },
+  {
+    "id": 255,
+    "name": "Port Moresby Papua New Guinea Temple",
+    "location": {
+      "city": "Papua New Guinea",
+      "country": "Papua New Guinea",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Papua New Guinea",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 256,
+    "name": "Port Vila Vanuatu Temple",
+    "location": {
+      "city": "Vanuatu",
+      "country": "Vanuatu",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Vanuatu",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 257,
+    "name": "Port-au-Prince Haiti Temple",
+    "location": {
+      "city": "Port-au-Prince",
+      "country": "Haiti",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Port-au-Prince, Haiti",
+    "dedicationDate": "2019-09-01",
+    "status": "Operating"
+  },
+  {
+    "id": 258,
+    "name": "Portland Oregon Temple",
+    "location": {
+      "city": "Lake Oswego",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Oregon"
+    },
+    "address": "Lake Oswego, Oregon, United States",
+    "dedicationDate": "1989-08-19",
+    "status": "Operating"
+  },
+  {
+    "id": 259,
+    "name": "Porto Alegre Brazil Temple",
+    "location": {
+      "city": "Porto Alegre",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Rio Grande do Sul"
+    },
+    "address": "Porto Alegre, Rio Grande do Sul, Brazil",
+    "dedicationDate": "2000-12-17",
+    "status": "Operating"
+  },
+  {
+    "id": 260,
+    "name": "Porto Portugal Temple",
+    "location": {
+      "city": "Portugal",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Portugal",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 261,
+    "name": "Praia Cape Verde Temple",
+    "location": {
+      "city": "Praia",
+      "country": "Cape Verde",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Praia, Cape Verde",
+    "dedicationDate": "2022-06-19",
+    "status": "Operating"
+  },
+  {
+    "id": 262,
+    "name": "Preston England Temple",
+    "location": {
+      "city": "Chorley",
+      "country": "England",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Lancashire"
+    },
+    "address": "Chorley, Lancashire, England",
+    "dedicationDate": "1998-06-07",
+    "status": "Operating"
+  },
+  {
+    "id": 263,
+    "name": "Price Utah Temple",
+    "location": {
+      "city": "Utah",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Utah, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 264,
+    "name": "Provo City Center Temple",
+    "location": {
+      "city": "Provo",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Provo, Utah, United States",
+    "dedicationDate": "2016-03-20",
+    "status": "Operating"
+  },
+  {
+    "id": 265,
+    "name": "Provo Utah Rock Canyon Temple",
+    "location": {
+      "city": "Provo",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Provo, Utah, United States",
+    "dedicationDate": null,
+    "status": "Renovation"
+  },
+  {
+    "id": 266,
+    "name": "Puebla Mexico Temple",
+    "location": {
+      "city": "Puebla",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Puebla"
+    },
+    "address": "Puebla, Puebla, Mexico",
+    "dedicationDate": "2024-05-19",
+    "status": "Operating"
+  },
+  {
+    "id": 267,
+    "name": "Puerto Montt Chile Temple",
+    "location": {
+      "city": "Chile",
+      "country": "Chile",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Chile",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 268,
+    "name": "Queen Creek Arizona Temple",
+    "location": {
+      "city": "Arizona",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Arizona, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 269,
+    "name": "Querétaro Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 270,
+    "name": "Quetzaltenango Guatemala Temple",
+    "location": {
+      "city": "Quetzaltenango",
+      "country": "Guatemala",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Quezaltenango"
+    },
+    "address": "Quetzaltenango, Quezaltenango, Guatemala",
+    "dedicationDate": "2011-12-11",
+    "status": "Operating"
+  },
+  {
+    "id": 271,
+    "name": "Quito Ecuador Temple",
+    "location": {
+      "city": "Quito",
+      "country": "Ecuador",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Quito, Ecuador",
+    "dedicationDate": "2022-11-20",
+    "status": "Operating"
+  },
+  {
+    "id": 272,
+    "name": "Raleigh North Carolina Temple",
+    "location": {
+      "city": "Apex",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "North Carolina"
+    },
+    "address": "Apex, North Carolina, United States",
+    "dedicationDate": "1999-12-18",
+    "status": "Operating"
+  },
+  {
+    "id": 273,
+    "name": "Rapid City South Dakota Temple",
+    "location": {
+      "city": "South Dakota",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "South Dakota, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 274,
+    "name": "Recife Brazil Temple",
+    "location": {
+      "city": "Recife",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Pernambuco"
+    },
+    "address": "Recife, Pernambuco, Brazil",
+    "dedicationDate": "2000-12-15",
+    "status": "Operating"
+  },
+  {
+    "id": 275,
+    "name": "Red Cliffs Utah Temple",
+    "location": {
+      "city": "St. George",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "St. George, Utah, United States",
+    "dedicationDate": "2024-03-24",
+    "status": "Operating"
+  },
+  {
+    "id": 276,
+    "name": "Redlands California Temple",
+    "location": {
+      "city": "Redlands",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "California"
+    },
+    "address": "Redlands, California, United States",
+    "dedicationDate": "2003-09-14",
+    "status": "Operating"
+  },
+  {
+    "id": 277,
+    "name": "Regina Saskatchewan Temple",
+    "location": {
+      "city": "Regina",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Saskatchewan"
+    },
+    "address": "Regina, Saskatchewan, Canada",
+    "dedicationDate": "1999-11-14",
+    "status": "Operating"
+  },
+  {
+    "id": 278,
+    "name": "Reno Nevada Temple",
+    "location": {
+      "city": "Reno",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Nevada"
+    },
+    "address": "Reno, Nevada, United States",
+    "dedicationDate": "2000-04-23",
+    "status": "Operating"
+  },
+  {
+    "id": 279,
+    "name": "Retalhuleu Guatemala Temple",
+    "location": {
+      "city": "Guatemala",
+      "country": "Guatemala",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Guatemala",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 280,
+    "name": "Rexburg Idaho Temple",
+    "location": {
+      "city": "Rexburg",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Idaho"
+    },
+    "address": "Rexburg, Idaho, United States",
+    "dedicationDate": "2008-02-10",
+    "status": "Operating"
+  },
+  {
+    "id": 281,
+    "name": "Reynosa Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 282,
+    "name": "Ribeirão Prêto Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 283,
+    "name": "Richmond Virginia Temple",
+    "location": {
+      "city": "Glen Allen",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Virginia"
+    },
+    "address": "Glen Allen, Virginia, United States",
+    "dedicationDate": "2023-05-07",
+    "status": "Operating"
+  },
+  {
+    "id": 284,
+    "name": "Rio de Janeiro Brazil Temple",
+    "location": {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Rio de Janeiro, Brazil",
+    "dedicationDate": "2022-05-08",
+    "status": "Operating"
+  },
+  {
+    "id": 285,
+    "name": "Rivera Uruguay Temple",
+    "location": {
+      "city": "Uruguay",
+      "country": "Uruguay",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Uruguay",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 286,
+    "name": "Roanoke Virginia Temple",
+    "location": {
+      "city": "Virginia",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Virginia, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 287,
+    "name": "Rome Italy Temple",
+    "location": {
+      "city": "Rome",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Roma"
+    },
+    "address": "Rome, Roma, Italy",
+    "dedicationDate": "2019-03-10",
+    "status": "Operating"
+  },
+  {
+    "id": 288,
+    "name": "Rosario Argentina Temple",
+    "location": {
+      "city": "Argentina",
+      "country": "Argentina",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Argentina",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 289,
+    "name": "Russia Temple",
+    "location": {
+      "city": "Russia",
+      "country": "Russia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Russia",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 290,
+    "name": "Sacramento California Temple",
+    "location": {
+      "city": "Rancho Cordova",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "California"
+    },
+    "address": "Rancho Cordova, California, United States",
+    "dedicationDate": "2006-09-03",
+    "status": "Operating"
+  },
+  {
+    "id": 291,
+    "name": "Salt Lake Temple",
+    "location": {
+      "city": "Salt Lake City",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Salt Lake City, Utah, United States",
+    "dedicationDate": null,
+    "status": "Renovation"
+  },
+  {
+    "id": 292,
+    "name": "Salta Argentina Temple",
+    "location": {
+      "city": "Salta",
+      "country": "Argentina",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Salta, Argentina",
+    "dedicationDate": "2024-06-16",
+    "status": "Operating"
+  },
+  {
+    "id": 293,
+    "name": "Salvador Brazil Temple",
+    "location": {
+      "city": "Salvador",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Bahia"
+    },
+    "address": "Salvador, Bahia, Brazil",
+    "dedicationDate": "2024-10-20",
+    "status": "Operating"
+  },
+  {
+    "id": 294,
+    "name": "San Antonio Texas Temple",
+    "location": {
+      "city": "San Antonio",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Texas"
+    },
+    "address": "San Antonio, Texas, United States",
+    "dedicationDate": "2005-05-22",
+    "status": "Operating"
+  },
+  {
+    "id": 295,
+    "name": "San Diego California Temple",
+    "location": {
+      "city": "San Diego",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "California"
+    },
+    "address": "San Diego, California, United States",
+    "dedicationDate": null,
+    "status": "Renovation"
+  },
+  {
+    "id": 296,
+    "name": "San Jose California Temple",
+    "location": {
+      "city": "California",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "California, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 297,
+    "name": "San José Costa Rica Temple",
+    "location": {
+      "city": "Belén",
+      "country": "Costa Rica",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Heredia"
+    },
+    "address": "Belén, Heredia, Costa Rica",
+    "dedicationDate": "2000-06-04",
+    "status": "Operating"
+  },
+  {
+    "id": 298,
+    "name": "San Jose del Monte Philippines Temple",
+    "location": {
+      "city": "Philippines",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Philippines",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 299,
+    "name": "San Juan Puerto Rico Temple",
+    "location": {
+      "city": "San Juan",
+      "country": "Puerto Rico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "San Juan, Puerto Rico",
+    "dedicationDate": "2023-01-15",
+    "status": "Operating"
+  },
+  {
+    "id": 300,
+    "name": "San Luis Potosí Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 301,
+    "name": "San Pedro Sula Honduras Temple",
+    "location": {
+      "city": "San Pedro Sula",
+      "country": "Honduras",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "San Pedro Sula, Honduras",
+    "dedicationDate": "2024-10-13",
+    "status": "Operating"
+  },
+  {
+    "id": 302,
+    "name": "San Salvador El Salvador Temple",
+    "location": {
+      "city": "Antiguo Cuscatlán",
+      "country": "El Salvador",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "La Libertad"
+    },
+    "address": "Antiguo Cuscatlán, La Libertad, El Salvador",
+    "dedicationDate": "2011-08-21",
+    "status": "Operating"
+  },
+  {
+    "id": 303,
+    "name": "Santa Ana El Salvador Temple",
+    "location": {
+      "city": "El Salvador",
+      "country": "El Salvador",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "El Salvador",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 304,
+    "name": "Santa Cruz Bolivia Temple",
+    "location": {
+      "city": "Bolivia",
+      "country": "Bolivia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Bolivia",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 305,
+    "name": "Santiago Chile Temple",
+    "location": {
+      "city": "Providencia",
+      "country": "Chile",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Santiago"
+    },
+    "address": "Providencia, Santiago, Chile",
+    "dedicationDate": "1983-09-15",
+    "status": "Operating"
+  },
+  {
+    "id": 306,
+    "name": "Santiago Dominican Republic Temple",
+    "location": {
+      "city": "Dominican Republic",
+      "country": "Dominican Republic",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Dominican Republic",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 307,
+    "name": "Santiago Philippines Temple",
+    "location": {
+      "city": "Philippines",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Philippines",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 308,
+    "name": "Santiago West Chile Temple",
+    "location": {
+      "city": "Chile",
+      "country": "Chile",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Chile",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 309,
+    "name": "Santo Domingo Dominican Republic Temple",
+    "location": {
+      "city": "Santo Domingo",
+      "country": "Dominican Republic",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Distrito Nacional"
+    },
+    "address": "Santo Domingo, Distrito Nacional, Dominican Republic",
+    "dedicationDate": "2000-09-17",
+    "status": "Operating"
+  },
+  {
+    "id": 310,
+    "name": "Santos Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 311,
+    "name": "São Paulo Brazil Temple",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Sao Paulo"
+    },
+    "address": "São Paulo, Sao Paulo, Brazil",
+    "dedicationDate": "1978-10-30",
+    "status": "Operating"
+  },
+  {
+    "id": 312,
+    "name": "São Paulo East Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 313,
+    "name": "Sapporo Japan Temple",
+    "location": {
+      "city": "Atsubetsu-ku Sapporo",
+      "country": "Japan",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Hokkaido"
+    },
+    "address": "Atsubetsu-ku Sapporo, Hokkaido, Japan",
+    "dedicationDate": "2016-08-21",
+    "status": "Operating"
+  },
+  {
+    "id": 314,
+    "name": "Saratoga Springs Utah Temple",
+    "location": {
+      "city": "Saratoga Springs",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Saratoga Springs, Utah, United States",
+    "dedicationDate": "2023-08-13",
+    "status": "Operating"
+  },
+  {
+    "id": 315,
+    "name": "Savai'i Samoa Temple",
+    "location": {
+      "city": "Samoa",
+      "country": "Samoa",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Samoa",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 316,
+    "name": "Seattle Washington Temple",
+    "location": {
+      "city": "Bellevue",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Washington"
+    },
+    "address": "Bellevue, Washington, United States",
+    "dedicationDate": "1980-11-17",
+    "status": "Operating"
+  },
+  {
+    "id": 317,
+    "name": "Seoul Korea Temple",
+    "location": {
+      "city": "Seoul",
+      "country": "South Korea",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Seoul-teukbyeolsi"
+    },
+    "address": "Seoul, Seoul-teukbyeolsi, South Korea",
+    "dedicationDate": "1985-12-14",
+    "status": "Operating"
+  },
+  {
+    "id": 318,
+    "name": "Shanghai People's Republic of China Temple",
+    "location": {
+      "city": "China",
+      "country": "China",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "China",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 319,
+    "name": "Singapore Temple",
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Singapore",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 320,
+    "name": "Smithfield Utah Temple",
+    "location": {
+      "city": "Utah",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Utah, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 321,
+    "name": "Snowflake Arizona Temple",
+    "location": {
+      "city": "Snowflake",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Arizona"
+    },
+    "address": "Snowflake, Arizona, United States",
+    "dedicationDate": "2002-03-03",
+    "status": "Operating"
+  },
+  {
+    "id": 322,
+    "name": "Spanish Fork Utah Temple",
+    "location": {
+      "city": "Utah",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Utah, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 323,
+    "name": "Spokane Washington Temple",
+    "location": {
+      "city": "Spokane",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Washington"
+    },
+    "address": "Spokane, Washington, United States",
+    "dedicationDate": "1999-08-21",
+    "status": "Operating"
+  },
+  {
+    "id": 324,
+    "name": "Springfield Missouri Temple",
+    "location": {
+      "city": "Missouri",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Missouri, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 325,
+    "name": "St. George Utah Temple",
+    "location": {
+      "city": "St. George",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "St. George, Utah, United States",
+    "dedicationDate": "1877-04-06",
+    "status": "Operating"
+  },
+  {
+    "id": 326,
+    "name": "St. Louis Missouri Temple",
+    "location": {
+      "city": "St. Louis",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Missouri"
+    },
+    "address": "St. Louis, Missouri, United States",
+    "dedicationDate": "1997-06-01",
+    "status": "Operating"
+  },
+  {
+    "id": 327,
+    "name": "St. Paul Minnesota Temple",
+    "location": {
+      "city": "Oakdale",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Minnesota"
+    },
+    "address": "Oakdale, Minnesota, United States",
+    "dedicationDate": "2000-01-09",
+    "status": "Operating"
+  },
+  {
+    "id": 328,
+    "name": "Star Valley Wyoming Temple",
+    "location": {
+      "city": "Afton",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Wyoming"
+    },
+    "address": "Afton, Wyoming, United States",
+    "dedicationDate": "2016-10-30",
+    "status": "Operating"
+  },
+  {
+    "id": 329,
+    "name": "Stockholm Sweden Temple",
+    "location": {
+      "city": "Vasterhaninge",
+      "country": "Sweden",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Vasterhaninge, Sweden",
+    "dedicationDate": null,
+    "status": "Renovation"
+  },
+  {
+    "id": 330,
+    "name": "Summit New Jersey Temple",
+    "location": {
+      "city": "New Jersey",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "New Jersey, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 331,
+    "name": "Suva Fiji Temple",
+    "location": {
+      "city": "Samabula",
+      "country": "Fiji",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Suva"
+    },
+    "address": "Samabula, Suva, Fiji",
+    "dedicationDate": "2000-06-18",
+    "status": "Operating"
+  },
+  {
+    "id": 332,
+    "name": "Sydney Australia Temple",
+    "location": {
+      "city": "Carlingford",
+      "country": "Australia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "New South Wales"
+    },
+    "address": "Carlingford, New South Wales, Australia",
+    "dedicationDate": "1984-09-20",
+    "status": "Operating"
+  },
+  {
+    "id": 333,
+    "name": "Syracuse Utah Temple",
+    "location": {
+      "city": "Syracuse",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Syracuse, Utah, United States",
+    "dedicationDate": "2025-06-08",
+    "status": "Dedicated"
+  },
+  {
+    "id": 334,
+    "name": "Tacloban City Philippines Temple",
+    "location": {
+      "city": "Philippines",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Philippines",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 335,
+    "name": "Tacoma Washington Temple",
+    "location": {
+      "city": "Washington",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Washington, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 336,
+    "name": "Taipei Taiwan Temple",
+    "location": {
+      "city": "Taipei",
+      "country": "Taiwan",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Taipei"
+    },
+    "address": "Taipei, Taipei, Taiwan",
+    "dedicationDate": "1984-11-17",
+    "status": "Operating"
+  },
+  {
+    "id": 337,
+    "name": "Tallahassee Florida Temple",
+    "location": {
+      "city": "Tallahassee",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Florida"
+    },
+    "address": "Tallahassee, Florida, United States",
+    "dedicationDate": "2024-12-08",
+    "status": "Operating"
+  },
+  {
+    "id": 338,
+    "name": "Tampa Florida Temple",
+    "location": {
+      "city": "Florida",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Florida, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 339,
+    "name": "Tampico Mexico Temple",
+    "location": {
+      "city": "Ciudad Madero",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Tamaulipas"
+    },
+    "address": "Ciudad Madero, Tamaulipas, Mexico",
+    "dedicationDate": "2000-05-20",
+    "status": "Operating"
+  },
+  {
+    "id": 340,
+    "name": "Tarawa Kiribati Temple",
+    "location": {
+      "city": "Kiribati",
+      "country": "Kiribati",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Kiribati",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 341,
+    "name": "Taylorsville Utah Temple",
+    "location": {
+      "city": "Taylorsville",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Taylorsville, Utah, United States",
+    "dedicationDate": "2024-06-02",
+    "status": "Operating"
+  },
+  {
+    "id": 342,
+    "name": "Tegucigalpa Honduras Temple",
+    "location": {
+      "city": "Comayagüela",
+      "country": "Honduras",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Francisco Morazán"
+    },
+    "address": "Comayagüela, Francisco Morazán, Honduras",
+    "dedicationDate": "2013-03-17",
+    "status": "Operating"
+  },
+  {
+    "id": 343,
+    "name": "Teresina Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 344,
+    "name": "Teton River Idaho Temple",
+    "location": {
+      "city": "Idaho",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Idaho, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 345,
+    "name": "The Gila Valley Arizona Temple",
+    "location": {
+      "city": "Central",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Arizona"
+    },
+    "address": "Central, Arizona, United States",
+    "dedicationDate": "2010-05-23",
+    "status": "Operating"
+  },
+  {
+    "id": 346,
+    "name": "The Hague Netherlands Temple",
+    "location": {
+      "city": "Zoetermeer",
+      "country": "Netherlands",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Zuid-Holland"
+    },
+    "address": "Zoetermeer, Zuid-Holland, Netherlands",
+    "dedicationDate": "2002-09-08",
+    "status": "Operating"
+  },
+  {
+    "id": 347,
+    "name": "Tijuana Mexico Temple",
+    "location": {
+      "city": "Tijuana",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Baja California"
+    },
+    "address": "Tijuana, Baja California, Mexico",
+    "dedicationDate": "2015-12-13",
+    "status": "Operating"
+  },
+  {
+    "id": 348,
+    "name": "Tokyo Japan Temple",
+    "location": {
+      "city": "Minato-ku",
+      "country": "Japan",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Tokyo"
+    },
+    "address": "Minato-ku, Tokyo, Japan",
+    "dedicationDate": "1980-10-27",
+    "status": "Operating"
+  },
+  {
+    "id": 349,
+    "name": "Toluca Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 350,
+    "name": "Toronto Ontario Temple",
+    "location": {
+      "city": "Brampton",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Ontario"
+    },
+    "address": "Brampton, Ontario, Canada",
+    "dedicationDate": "1990-08-25",
+    "status": "Operating"
+  },
+  {
+    "id": 351,
+    "name": "Torreón Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 352,
+    "name": "Trujillo Peru Temple",
+    "location": {
+      "city": "Trujillo",
+      "country": "Peru",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "La Libertad"
+    },
+    "address": "Trujillo, La Libertad, Peru",
+    "dedicationDate": "2015-06-21",
+    "status": "Operating"
+  },
+  {
+    "id": 353,
+    "name": "Tucson Arizona Temple",
+    "location": {
+      "city": "Tucson",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Arizona"
+    },
+    "address": "Tucson, Arizona, United States",
+    "dedicationDate": "2017-08-13",
+    "status": "Operating"
+  },
+  {
+    "id": 354,
+    "name": "Tuguegarao City Philippines Temple",
+    "location": {
+      "city": "Philippines",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Philippines",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 355,
+    "name": "Tula Mexico Temple",
+    "location": {
+      "city": "Mexico",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mexico",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 356,
+    "name": "Tulsa Oklahoma Temple",
+    "location": {
+      "city": "Oklahoma",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Oklahoma, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 357,
+    "name": "Tuxtla Gutiérrez Mexico Temple",
+    "location": {
+      "city": "Tuxtla Gutiérrez",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Chiapas"
+    },
+    "address": "Tuxtla Gutiérrez, Chiapas, Mexico",
+    "dedicationDate": "2000-03-12",
+    "status": "Operating"
+  },
+  {
+    "id": 358,
+    "name": "Twin Falls Idaho Temple",
+    "location": {
+      "city": "Twin Falls",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Idaho"
+    },
+    "address": "Twin Falls, Idaho, United States",
+    "dedicationDate": "2008-08-24",
+    "status": "Operating"
+  },
+  {
+    "id": 359,
+    "name": "Ulaanbaatar Mongolia Temple",
+    "location": {
+      "city": "Mongolia",
+      "country": "Mongolia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Mongolia",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 360,
+    "name": "Urdaneta Philippines Temple",
+    "location": {
+      "city": "Urdaneta",
+      "country": "Philippines",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Pangasinan"
+    },
+    "address": "Urdaneta, Pangasinan, Philippines",
+    "dedicationDate": "2024-04-28",
+    "status": "Operating"
+  },
+  {
+    "id": 361,
+    "name": "Uturoa French Polynesia Temple",
+    "location": {
+      "city": "French Polynesia",
+      "country": "French Polynesia",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "French Polynesia",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 362,
+    "name": "Uyo Nigeria Temple",
+    "location": {
+      "city": "Nigeria",
+      "country": "Nigeria",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Nigeria",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 363,
+    "name": "Vancouver British Columbia Temple",
+    "location": {
+      "city": "Langley",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "British Columbia"
+    },
+    "address": "Langley, British Columbia, Canada",
+    "dedicationDate": "2010-05-02",
+    "status": "Operating"
+  },
+  {
+    "id": 364,
+    "name": "Vancouver Washington Temple",
+    "location": {
+      "city": "Washington",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Washington, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 365,
+    "name": "Veracruz Mexico Temple",
+    "location": {
+      "city": "Boca del Rio",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Veracruz"
+    },
+    "address": "Boca del Rio, Veracruz, Mexico",
+    "dedicationDate": "2000-07-09",
+    "status": "Operating"
+  },
+  {
+    "id": 366,
+    "name": "Vernal Utah Temple",
+    "location": {
+      "city": "Vernal",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Utah"
+    },
+    "address": "Vernal, Utah, United States",
+    "dedicationDate": "1997-11-02",
+    "status": "Operating"
+  },
+  {
+    "id": 367,
+    "name": "Victoria British Columbia Temple",
+    "location": {
+      "city": "Canada",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Canada",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 368,
+    "name": "Vienna Austria Temple",
+    "location": {
+      "city": "Austria",
+      "country": "Austria",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Austria",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 369,
+    "name": "Villahermosa Mexico Temple",
+    "location": {
+      "city": "Villahermosa",
+      "country": "Mexico",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "region": "Tabasco"
+    },
+    "address": "Villahermosa, Tabasco, Mexico",
+    "dedicationDate": "2000-05-21",
+    "status": "Operating"
+  },
+  {
+    "id": 370,
+    "name": "Viña del Mar Chile Temple",
+    "location": {
+      "city": "Chile",
+      "country": "Chile",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Chile",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 371,
+    "name": "Vitória Brazil Temple",
+    "location": {
+      "city": "Brazil",
+      "country": "Brazil",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Brazil",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 372,
+    "name": "Washington D.C. Temple",
+    "location": {
+      "city": "Kensington",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Maryland"
+    },
+    "address": "Kensington, Maryland, United States",
+    "dedicationDate": "1974-11-19",
+    "status": "Operating"
+  },
+  {
+    "id": 373,
+    "name": "Wellington New Zealand Temple",
+    "location": {
+      "city": "New Zealand",
+      "country": "New Zealand",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "New Zealand",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 374,
+    "name": "West Jordan Utah Temple",
+    "location": {
+      "city": "Utah",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Utah, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  },
+  {
+    "id": 375,
+    "name": "Wichita Kansas Temple",
+    "location": {
+      "city": "Kansas",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Kansas, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 376,
+    "name": "Willamette Valley Oregon Temple",
+    "location": {
+      "city": "Oregon",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Oregon, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 377,
+    "name": "Winchester Virginia Temple",
+    "location": {
+      "city": "Virginia",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Virginia, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 378,
+    "name": "Winnipeg Manitoba Temple",
+    "location": {
+      "city": "Winnipeg",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Manitoba"
+    },
+    "address": "Winnipeg, Manitoba, Canada",
+    "dedicationDate": "2021-10-31",
+    "status": "Operating"
+  },
+  {
+    "id": 379,
+    "name": "Winter Quarters Nebraska Temple",
+    "location": {
+      "city": "Omaha",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      },
+      "state": "Nebraska"
+    },
+    "address": "Omaha, Nebraska, United States",
+    "dedicationDate": "2001-04-22",
+    "status": "Operating"
+  },
+  {
+    "id": 380,
+    "name": "Yigo Guam Temple",
+    "location": {
+      "city": "Yigo",
+      "country": "Guam",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Yigo, Guam",
+    "dedicationDate": "2022-05-22",
+    "status": "Operating"
+  },
+  {
+    "id": 381,
+    "name": "Yorba Linda California Temple",
+    "location": {
+      "city": "California",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "California, United States",
+    "dedicationDate": null,
+    "status": "Under Construction"
+  },
+  {
+    "id": 382,
+    "name": "Yuma Arizona Temple",
+    "location": {
+      "city": "Arizona",
+      "country": "United States",
+      "coordinates": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "address": "Arizona, United States",
+    "dedicationDate": null,
+    "status": "Announced"
+  }
+]

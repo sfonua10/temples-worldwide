@@ -1,0 +1,52 @@
+.map-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+
+/* Temple marker styles */
+.temple-marker {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 2px solid white;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  transition: transform 0.2s ease;
+  will-change: transform;
+}
+
+.temple-marker.operating {
+  background-color: #FFD700;
+}
+
+.temple-marker.non-operating {
+  background-color: #C0C0C0;
+}
+
+.temple-marker:hover {
+  transform: scale(1.2);
+}
+
+.temple-marker.operating:hover {
+  background-color: #E6C200;
+}
+
+.temple-marker.non-operating:hover {
+  background-color: #A0A0A0;
+}
+
+.temple-marker.selected {
+  background-color: #f00 !important;
+  transform: scale(1.2);
+}
+
+.temple-marker:focus {
+  outline: 2px solid #FFD700;
+  outline-offset: 2px;
+}

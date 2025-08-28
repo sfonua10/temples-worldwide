@@ -1,0 +1,134 @@
+.temple-info-panel {
+  position: fixed;
+  top: 0;
+  right: -400px;
+  width: 400px;
+  height: 100vh;
+  background: white;
+  box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
+  transition: right 0.3s ease-in-out;
+  overflow-y: auto;
+  z-index: 1000;
+}
+
+.temple-info-panel.open {
+  right: 0;
+}
+
+.close-button {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: none;
+  border: none;
+  font-size: 32px;
+  cursor: pointer;
+  color: #666;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+.close-button:hover {
+  background-color: #f0f0f0;
+}
+
+.temple-info-content {
+  padding: 24px;
+  padding-top: 60px;
+}
+
+.temple-info-content h2 {
+  margin: 0 0 24px 0;
+  font-size: 28px;
+  color: #333;
+}
+
+.info-section {
+  margin-bottom: 24px;
+}
+
+.info-section h3 {
+  margin: 0 0 8px 0;
+  font-size: 14px;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.info-section p {
+  margin: 0;
+  font-size: 16px;
+  color: #333;
+  line-height: 1.5;
+}
+
+.status {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.status-operating {
+  background-color: #d4f8d4;
+  color: #2a7f2a;
+}
+
+.status-under-construction {
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.status-announced {
+  background-color: #d1ecf1;
+  color: #0c5460;
+}
+
+.status-closed-for-renovation {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+@media (max-width: 768px) {
+  .temple-info-panel {
+    width: 100%;
+    right: -100%;
+  }
+  
+  .temple-info-panel.open {
+    right: 0;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .temple-info-panel {
+    background: #1a1a1a;
+    color: #f0f0f0;
+  }
+
+  .close-button {
+    color: #ccc;
+  }
+
+  .close-button:hover {
+    background-color: #2a2a2a;
+  }
+
+  .temple-info-content h2 {
+    color: #f0f0f0;
+  }
+
+  .info-section h3 {
+    color: #999;
+  }
+
+  .info-section p {
+    color: #ddd;
+  }
+}
