@@ -4,7 +4,6 @@ import './App.css'
 import templesData from './data/temples.json'
 import type { Temple } from './types/temple'
 import { TempleInfoPanel } from './components/TempleInfoPanel'
-import { TempleDetailModal } from './components/TempleDetailModal'
 import { AccessibilitySettings } from './components/AccessibilitySettings'
 
 // Set Mapbox access token
@@ -21,32 +20,6 @@ function App() {
   const allTemples = useRef<Temple[]>([])
   const currentTempleIndex = useRef<number>(-1)
 
-  // Navigation functions for TV remote
-  const navigateToTemple = (direction: 'up' | 'down' | 'left' | 'right') => {
-    if (allTemples.current.length === 0) return
-
-    let newIndex = currentTempleIndex.current
-    
-    switch (direction) {
-      case 'left':
-        newIndex = (newIndex - 1 + allTemples.current.length) % allTemples.current.length
-        break
-      case 'right':
-        newIndex = (newIndex + 1) % allTemples.current.length
-        break
-      case 'up':
-        newIndex = Math.max(0, newIndex - 5)
-        break
-      case 'down':
-        newIndex = Math.min(allTemples.current.length - 1, newIndex + 5)
-        break
-    }
-    
-    if (newIndex !== currentTempleIndex.current) {
-      const temple = allTemples.current[newIndex]
-      selectTemple(temple, newIndex)
-    }
-  }
 
   const selectTemple = (temple: Temple, index: number) => {
     // Update feature state for previously selected temple
@@ -204,7 +177,7 @@ function App() {
             id: temple.id,
             name: temple.name,
             status: temple.status,
-            address: temple.location.address,
+            address: temple.address,
             ...(temple as any)
           },
           geometry: {
@@ -309,19 +282,6 @@ function App() {
   }, [])
 
 
-  const handleCloseModal = () => {
-    // Clear selected state when closing modal
-    if (selectedTempleIdRef.current && map.current) {
-      map.current.setFeatureState(
-        { source: 'temples', id: selectedTempleIdRef.current },
-        { selected: false }
-      )
-      selectedTempleIdRef.current = null
-    }
-    setSelectedTemple(null)
-    setShowDetailModal(false)
-    currentTempleIndex.current = -1
-  }
 
   return (
     <>

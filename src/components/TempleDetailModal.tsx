@@ -53,21 +53,8 @@ export function TempleDetailModal({ temple, onClose, onNavigate }: TempleDetailM
 
   if (!temple) return null
 
-  const formatDate = (dateString: string | null) => {
-    if (!dateString) return 'To be announced'
-    const date = new Date(dateString)
-    return date.toLocaleDateString('en-US', { 
-      year: 'numeric', 
-      month: 'long', 
-      day: 'numeric' 
-    })
-  }
 
-  const getStatusClass = (status: string) => {
-    return status.toLowerCase().replace(/\s+/g, '-')
-  }
 
-  const templeImageUrl = `https://churchofjesuschrist.org/imgs/temples/${temple.name.toLowerCase().replace(/\s+/g, '-')}-temple.jpg`
 
   return (
     <div className="temple-detail-modal" ref={modalRef}>
