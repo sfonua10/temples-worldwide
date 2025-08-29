@@ -12,19 +12,21 @@ function App() {
   const mapContainer = useRef<HTMLDivElement>(null)
   const map = useRef<mapboxgl.Map | null>(null)
   const [selectedTemple, setSelectedTemple] = useState<Temple | null>(null)
+  const hoveredTempleIdRef = useRef<string | null>(null)
+  const selectedTempleIdRef = useRef<string | null>(null)
 
   useEffect(() => {
     if (!mapContainer.current) return
-    
-    const currentMarkers: mapboxgl.Marker[] = []
 
     // Initialize the map
     map.current = new mapboxgl.Map({
       container: mapContainer.current,
       style: 'mapbox://styles/mapbox/streets-v12',
       projection: 'globe', // Display the map as a globe
-      zoom: 3.0,
-      center: [0, 20]
+      zoom: 3,
+      center: [0, 20],
+      minZoom: 1,
+      maxZoom: 5
     })
 
     // The following values can be changed to control rotation speed:
@@ -67,24 +69,21 @@ function App() {
       spinGlobe()
     })
 
-    // Add double-click zoom functionality
-    map.current.on('dblclick', (e) => {
-      e.preventDefault()
-      const currentZoom = map.current!.getZoom()
-      map.current!.easeTo({
-        zoom: currentZoom + 2,
-        duration: 500
-      })
-    })
 
     // Add map click handler to deselect temples
-    map.current.on('click', () => {
-      if (selectedTemple) {
-        // Reset all markers to default state
-        currentMarkers.forEach(m => {
-          const markerEl = m.getElement()
-          markerEl.classList.remove('selected')
-        })
+    map.current.on('click', (e) => {
+      // Check if click was on empty space (not on a temple)
+      const features = map.current!.queryRenderedFeatures(e.point, {
+        layers: ['temple-layer']
+      })
+      
+      if (features.length === 0 && selectedTempleIdRef.current) {
+        // Clear selected state on the map
+        map.current!.setFeatureState(
+          { source: 'temples', id: selectedTempleIdRef.current },
+          { selected: false }
+        )
+        selectedTempleIdRef.current = null
         setSelectedTemple(null)
       }
     })
@@ -101,65 +100,127 @@ function App() {
         'star-intensity': 0.6 // Background star brightness (default 0.35 at low zooms)
       })
 
-      // Add temple markers
+      // Prepare temple data as GeoJSON
       const temples = templesData as Temple[]
-      // Filter temples to only show ones with valid coordinates (not 0,0)
       const templesWithCoordinates = temples.filter(temple => 
         temple.location.coordinates.lat !== 0.0 && temple.location.coordinates.lng !== 0.0
       )
-      templesWithCoordinates.forEach((temple: Temple) => {
-        // Create custom marker element
-        const el = document.createElement('div')
-        el.className = `temple-marker ${temple.status === 'Operating' ? 'operating' : 'non-operating'}`
-        el.tabIndex = 0
-        el.setAttribute('role', 'button')
-        el.setAttribute('aria-label', `${temple.name} temple`)
+      
+      const geojsonData = {
+        type: 'FeatureCollection',
+        features: templesWithCoordinates.map(temple => ({
+          type: 'Feature',
+          id: temple.id, // This is crucial for feature state to work
+          properties: {
+            id: temple.id,
+            name: temple.name,
+            status: temple.status,
+            address: temple.location.address,
+            ...(temple as any)
+          },
+          geometry: {
+            type: 'Point',
+            coordinates: [temple.location.coordinates.lng, temple.location.coordinates.lat]
+          }
+        }))
+      }
 
-        // Create marker
-        const marker = new mapboxgl.Marker(el)
-          .setLngLat([temple.location.coordinates.lng, temple.location.coordinates.lat])
-          .addTo(map.current!)
+      // Add temples as a source
+      map.current!.addSource('temples', {
+        type: 'geojson',
+        data: geojsonData as any
+      })
 
-        // Add click and keyboard handlers
-        const handleSelection = (e: Event) => {
-          e.stopPropagation()
-          
-          // Reset other markers
-          currentMarkers.forEach(m => {
-            const markerEl = m.getElement()
-            markerEl.classList.remove('selected')
-          })
-          
-          // Highlight selected marker
-          el.classList.add('selected')
-          
-          setSelectedTemple(temple)
-          // Fly to temple location
-          map.current!.flyTo({
-            center: [temple.location.coordinates.lng, temple.location.coordinates.lat],
-            zoom: 8,
-            duration: 2000
-          })
+      // Add temple layer
+      map.current!.addLayer({
+        id: 'temple-layer',
+        type: 'circle',
+        source: 'temples',
+        paint: {
+          'circle-radius': [
+            'case',
+            ['boolean', ['feature-state', 'selected'], false],
+            6,
+            ['boolean', ['feature-state', 'hover'], false],
+            6,
+            4
+          ],
+          'circle-color': [
+            'case',
+            ['boolean', ['feature-state', 'selected'], false],
+            '#f00',
+            ['==', ['get', 'status'], 'Operating'],
+            '#4264fb',
+            '#C0C0C0'
+          ],
+          'circle-stroke-width': 2,
+          'circle-stroke-color': '#ffffff'
+        }
+      })
+
+      // Handle temple clicks
+      map.current!.on('click', 'temple-layer', (e) => {
+        e.preventDefault()
+        const feature = e.features![0]
+        const templeData = feature.properties as Temple
+        
+        // Update feature state for previously selected temple
+        if (selectedTempleIdRef.current) {
+          map.current!.setFeatureState(
+            { source: 'temples', id: selectedTempleIdRef.current },
+            { selected: false }
+          )
         }
         
-        el.addEventListener('click', handleSelection)
-        el.addEventListener('keydown', (e) => {
-          if (e.key === 'Enter' || e.key === ' ') {
-            e.preventDefault()
-            handleSelection(e)
-          }
+        // Update feature state for newly selected temple
+        map.current!.setFeatureState(
+          { source: 'temples', id: templeData.id },
+          { selected: true }
+        )
+        
+        // Update refs and state
+        selectedTempleIdRef.current = templeData.id
+        setSelectedTemple(templeData)
+        
+        // Fly to temple location
+        map.current!.flyTo({
+          center: e.lngLat,
+          zoom: 8,
+          duration: 2000
         })
+      })
 
-        // Add cursor pointer on hover for map canvas
-        el.addEventListener('mouseenter', () => {
-          map.current!.getCanvas().style.cursor = 'pointer'
-        })
+      // Handle hover effects
+      map.current!.on('mouseenter', 'temple-layer', (e) => {
+        map.current!.getCanvas().style.cursor = 'pointer'
+        const feature = e.features![0]
+        const templeId = feature.properties!.id
+        
+        // Clear previous hover state
+        if (hoveredTempleIdRef.current && hoveredTempleIdRef.current !== templeId) {
+          map.current!.setFeatureState(
+            { source: 'temples', id: hoveredTempleIdRef.current },
+            { hover: false }
+          )
+        }
+        
+        // Set new hover state
+        hoveredTempleIdRef.current = templeId
+        map.current!.setFeatureState(
+          { source: 'temples', id: templeId },
+          { hover: true }
+        )
+      })
 
-        el.addEventListener('mouseleave', () => {
-          map.current!.getCanvas().style.cursor = ''
-        })
-
-        currentMarkers.push(marker)
+      map.current!.on('mouseleave', 'temple-layer', () => {
+        map.current!.getCanvas().style.cursor = ''
+        if (hoveredTempleIdRef.current) {
+          map.current!.setFeatureState(
+            { source: 'temples', id: hoveredTempleIdRef.current },
+            { hover: false }
+          )
+          hoveredTempleIdRef.current = null
+        }
       })
 
       // Start spinning animation
@@ -172,7 +233,6 @@ function App() {
 
     // Clean up on unmount
     return () => {
-      currentMarkers.forEach(marker => marker.remove())
       map.current?.remove()
     }
   }, [])
@@ -183,7 +243,17 @@ function App() {
       <div ref={mapContainer} className="map-container" />
       <TempleInfoPanel 
         temple={selectedTemple} 
-        onClose={() => setSelectedTemple(null)} 
+        onClose={() => {
+          // Clear selected state when closing panel
+          if (selectedTempleIdRef.current && map.current) {
+            map.current.setFeatureState(
+              { source: 'temples', id: selectedTempleIdRef.current },
+              { selected: false }
+            )
+            selectedTempleIdRef.current = null
+          }
+          setSelectedTemple(null)
+        }} 
       />
     </>
   )

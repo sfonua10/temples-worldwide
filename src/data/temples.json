@@ -6,12 +6,12 @@
       "city": "Aba",
       "country": "Nigeria",
       "coordinates": {
-        "lat": 5.1066,
-        "lng": 7.3667
+        "lat": 5.1128008,
+        "lng": 7.3651376
       },
       "region": "Abia"
     },
-    "address": "Aba, Abia, Nigeria",
+    "address": "72-80 Okpu-Umuobo Rd Aba Abia State Nigeria",
     "dedicationDate": "2005-08-07",
     "status": "Operating"
   },
@@ -22,11 +22,11 @@
       "city": "Abidjan",
       "country": "Côte d'Ivoire",
       "coordinates": {
-        "lat": 5.36,
-        "lng": -4.0083
+        "lat": 5.357367,
+        "lng": -3.994934
       }
     },
-    "address": "Abidjan, Côte d'Ivoire",
+    "address": "Lot 118 Riviera Attoban Cocody Abidjan Cote d'Ivoire",
     "dedicationDate": "2025-05-25",
     "status": "Dedicated"
   },
@@ -37,8 +37,8 @@
       "city": "Nigeria",
       "country": "Nigeria",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 9.6000359,
+        "lng": 7.9999721
       }
     },
     "address": "Nigeria",
@@ -52,12 +52,12 @@
       "city": "Accra",
       "country": "Ghana",
       "coordinates": {
-        "lat": 5.6037,
-        "lng": -0.187
+        "lat": 5.5697107,
+        "lng": -0.1955541
       },
       "region": "Greater Accra"
     },
-    "address": "Accra, Greater Accra, Ghana",
+    "address": "Accra Ghana Temple Complex 57 Independence Ave North Ridge P.M.B. CT 209, Cantonments Accra Ghana",
     "dedicationDate": "2004-01-11",
     "status": "Operating"
   },
@@ -68,12 +68,12 @@
       "city": "Marden",
       "country": "Australia",
       "coordinates": {
-        "lat": -34.8736,
-        "lng": 138.6594
+        "lat": -34.8904578,
+        "lng": 138.6306997
       },
       "region": "South Australia"
     },
-    "address": "Marden, South Australia, Australia",
+    "address": "53-59 Lower Portrush Rd Marden SA 5070 Australia",
     "dedicationDate": "2000-06-15",
     "status": "Operating"
   },
@@ -84,11 +84,11 @@
       "city": "Philippines",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 14.4090011,
+        "lng": 121.042096
       }
     },
-    "address": "Philippines",
+    "address": "#5 Filinvest Ave Corner Corporate Ave Filinvest Corporate City , Alabang, Muntinlupa City 1781 Metro Manila Philippines",
     "dedicationDate": null,
     "status": "Under Construction"
   },
@@ -99,12 +99,12 @@
       "city": "Albuquerque",
       "country": "United States",
       "coordinates": {
-        "lat": 35.0844,
-        "lng": -106.6504
+        "lat": 35.1662152,
+        "lng": -106.5732445
       },
       "state": "New Mexico"
     },
-    "address": "Albuquerque, New Mexico, United States",
+    "address": "10301 San Francisco Rd NE Albuquerque NM 87122-3437 United States",
     "dedicationDate": "2000-03-05",
     "status": "Operating"
   },
@@ -115,12 +115,12 @@
       "city": "Anchorage",
       "country": "United States",
       "coordinates": {
-        "lat": 61.2181,
-        "lng": -149.9003
+        "lat": 61.1016582,
+        "lng": -149.8403673
       },
       "state": "Alaska"
     },
-    "address": "Anchorage, Alaska, United States",
+    "address": "13161 Brayton Dr Anchorage AK 99516 United States",
     "dedicationDate": "1999-01-09",
     "status": "Operating"
   },
@@ -131,8 +131,8 @@
       "city": "Madagascar",
       "country": "Madagascar",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -18.9249604,
+        "lng": 46.4416422
       }
     },
     "address": "Madagascar",
@@ -146,11 +146,11 @@
       "city": "Antofagasta",
       "country": "Chile",
       "coordinates": {
-        "lat": -23.6509,
-        "lng": -70.3975
+        "lat": -23.5715734,
+        "lng": -70.3962544
       }
     },
-    "address": "Antofagasta, Chile",
+    "address": "Las Palmeras 44 Antofagasta Chile",
     "dedicationDate": "2025-06-15",
     "status": "Dedicated"
   },
@@ -166,7 +166,7 @@
       },
       "region": "Pesega"
     },
-    "address": "Apia, Pesega, Samoa",
+    "address": "Vaitele Street Pesega Apia Samoa",
     "dedicationDate": "1983-08-05",
     "status": "Operating"
   },
@@ -177,11 +177,11 @@
       "city": "Arequipa",
       "country": "Peru",
       "coordinates": {
-        "lat": -16.409,
-        "lng": -71.5375
+        "lat": -16.3721743,
+        "lng": -71.537739
       }
     },
-    "address": "Arequipa, Peru",
+    "address": "Calle Cusco 380 Carmen Alto Distrito De Cayma Arequipa Arequipa Peru",
     "dedicationDate": "2019-12-15",
     "status": "Operating"
   },
@@ -192,12 +192,12 @@
       "city": "Asunción",
       "country": "Paraguay",
       "coordinates": {
-        "lat": -25.2637,
-        "lng": -57.5759
+        "lat": -25.2800459,
+        "lng": -57.6343814
       },
       "region": "Alto Paraguay"
     },
-    "address": "Asunción, Alto Paraguay, Paraguay",
+    "address": "Avda Brasilia Esquina Avda España Asunción Paraguay",
     "dedicationDate": "2002-05-19",
     "status": "Operating"
   },
@@ -208,12 +208,12 @@
       "city": "Sandy Springs",
       "country": "United States",
       "coordinates": {
-        "lat": 33.9304,
-        "lng": -84.3733
+        "lat": 33.929348,
+        "lng": -84.3598987
       },
       "state": "Georgia"
     },
-    "address": "Sandy Springs, Georgia, United States",
+    "address": "6450 Barfield Rd NE Sandy Springs GA 30328-4283 United States",
     "dedicationDate": "1983-06-01",
     "status": "Operating"
   },
@@ -224,11 +224,11 @@
       "city": "Auckland",
       "country": "New Zealand",
       "coordinates": {
-        "lat": -36.8485,
-        "lng": 174.7633
+        "lat": -36.9917563,
+        "lng": 174.8902255
       }
     },
-    "address": "Auckland, New Zealand",
+    "address": "19 Redoubt Road Goodwood Heights 2105 New Zealand",
     "dedicationDate": "2025-04-13",
     "status": "Dedicated"
   },
@@ -239,8 +239,8 @@
       "city": "Texas",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.2638905,
+        "lng": -98.5456116
       }
     },
     "address": "Texas, United States",
@@ -254,8 +254,8 @@
       "city": "Lanao Del Norte",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 7.9579723,
+        "lng": 123.9021124
       }
     },
     "address": "Lanao Del Norte, Philippines",
@@ -269,8 +269,8 @@
       "city": "Argentina",
       "country": "Argentina",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.9964963,
+        "lng": -64.9672817
       }
     },
     "address": "Argentina",
@@ -284,8 +284,8 @@
       "city": "California",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 36.7014631,
+        "lng": -118.755997
       }
     },
     "address": "California, United States",
@@ -314,8 +314,8 @@
       "city": "Spain",
       "country": "Spain",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.3260685,
+        "lng": -4.8379791
       }
     },
     "address": "Spain",
@@ -360,8 +360,8 @@
       "city": "Mozambique",
       "country": "Mozambique",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -19.302233,
+        "lng": 34.9144977
       }
     },
     "address": "Mozambique",
@@ -391,8 +391,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -421,8 +421,8 @@
       "city": "Nigeria",
       "country": "Nigeria",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 9.6000359,
+        "lng": 7.9999721
       }
     },
     "address": "Nigeria",
@@ -500,8 +500,8 @@
       "city": "United Kingdom",
       "country": "United Kingdom",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 54.7023545,
+        "lng": -3.2765753
       }
     },
     "address": "United Kingdom",
@@ -610,8 +610,8 @@
       "city": "Republic of the Congo",
       "country": "Republic of the Congo",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -0.7264327,
+        "lng": 15.6419155
       }
     },
     "address": "Republic of the Congo",
@@ -641,8 +641,8 @@
       "city": "Australia",
       "country": "Australia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -24.7761086,
+        "lng": 134.755
       }
     },
     "address": "Australia",
@@ -672,8 +672,8 @@
       "city": "Belgium",
       "country": "Belgium",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.6402809,
+        "lng": 4.6667145
       }
     },
     "address": "Belgium",
@@ -687,8 +687,8 @@
       "city": "Hungary",
       "country": "Hungary",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 47.1817585,
+        "lng": 19.5060937
       }
     },
     "address": "Hungary",
@@ -718,8 +718,8 @@
       "city": "Argentina",
       "country": "Argentina",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.9964963,
+        "lng": -64.9672817
       }
     },
     "address": "Argentina",
@@ -733,8 +733,8 @@
       "city": "United States",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.7837304,
+        "lng": -100.445882
       }
     },
     "address": "United States",
@@ -748,8 +748,8 @@
       "city": "South Korea",
       "country": "South Korea",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 36.638392,
+        "lng": 127.6961188
       }
     },
     "address": "South Korea",
@@ -763,8 +763,8 @@
       "city": "Philippines",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 12.7503486,
+        "lng": 122.7312101
       }
     },
     "address": "Philippines",
@@ -778,8 +778,8 @@
       "city": "Nigeria",
       "country": "Nigeria",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 9.6000359,
+        "lng": 7.9999721
       }
     },
     "address": "Nigeria",
@@ -793,8 +793,8 @@
       "city": "Idaho",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6447642,
+        "lng": -114.015407
       }
     },
     "address": "Idaho, United States",
@@ -808,8 +808,8 @@
       "city": "Calgary",
       "country": "Canada",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 51.0456064,
+        "lng": -114.057541
       },
       "state": "Alberta"
     },
@@ -824,8 +824,8 @@
       "city": "Colombia",
       "country": "Colombia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 4.099917,
+        "lng": -72.9088133
       }
     },
     "address": "Colombia",
@@ -839,8 +839,8 @@
       "city": "Campinas",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -22.9056391,
+        "lng": -47.059564
       },
       "region": "Sao Paulo"
     },
@@ -855,8 +855,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -870,8 +870,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -885,8 +885,8 @@
       "city": "Ghana",
       "country": "Ghana",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 8.0300284,
+        "lng": -1.0800271
       }
     },
     "address": "Ghana",
@@ -900,8 +900,8 @@
       "city": "South Africa",
       "country": "South Africa",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -28.8166236,
+        "lng": 24.991639
       }
     },
     "address": "South Africa",
@@ -931,8 +931,8 @@
       "city": "Cardston",
       "country": "Canada",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 49.2001157,
+        "lng": -113.3165704
       },
       "state": "Alberta"
     },
@@ -947,8 +947,8 @@
       "city": "Casper",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.8501191,
+        "lng": -106.325138
       },
       "state": "Wyoming"
     },
@@ -963,8 +963,8 @@
       "city": "Cebu City",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 10.3285605,
+        "lng": 123.9008849
       },
       "region": "Cebu"
     },
@@ -979,8 +979,8 @@
       "city": "Cedar City",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 37.6774238,
+        "lng": -113.061827
       },
       "state": "Utah"
     },
@@ -995,8 +995,8 @@
       "city": "North Carolina",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.6729639,
+        "lng": -79.0392919
       }
     },
     "address": "North Carolina, United States",
@@ -1010,8 +1010,8 @@
       "city": "Glenview",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.0700662,
+        "lng": -87.8114044
       },
       "state": "Illinois"
     },
@@ -1026,8 +1026,8 @@
       "city": "Peru",
       "country": "Peru",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -6.8699697,
+        "lng": -75.0458515
       }
     },
     "address": "Peru",
@@ -1041,8 +1041,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -1056,8 +1056,8 @@
       "city": "Peru",
       "country": "Peru",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -6.8699697,
+        "lng": -75.0458515
       }
     },
     "address": "Peru",
@@ -1071,8 +1071,8 @@
       "city": "Ohio",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.2253569,
+        "lng": -82.6881395
       }
     },
     "address": "Ohio, United States",
@@ -1086,8 +1086,8 @@
       "city": "Ciudad Juárez",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.7372575,
+        "lng": -106.485655
       },
       "region": "Chihuahua"
     },
@@ -1102,8 +1102,8 @@
       "city": "Ohio",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.2253569,
+        "lng": -82.6881395
       }
     },
     "address": "Ohio, United States",
@@ -1117,8 +1117,8 @@
       "city": "Coban",
       "country": "Guatemala",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 15.4702001,
+        "lng": -90.3735065
       }
     },
     "address": "Coban, Guatemala",
@@ -1132,8 +1132,8 @@
       "city": "Alto Queru Queru",
       "country": "Bolivia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -17.361064,
+        "lng": -66.1517408
       },
       "region": "Cochabamba"
     },
@@ -1148,8 +1148,8 @@
       "city": "Wyoming",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.1700264,
+        "lng": -107.568534
       }
     },
     "address": "Wyoming, United States",
@@ -1163,8 +1163,8 @@
       "city": "Idaho",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6447642,
+        "lng": -114.015407
       }
     },
     "address": "Idaho, United States",
@@ -1178,8 +1178,8 @@
       "city": "Colonia Juárez",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 30.3076107,
+        "lng": -108.081005
       },
       "region": "Chihuahua"
     },
@@ -1194,8 +1194,8 @@
       "city": "Colorado",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.7251776,
+        "lng": -105.607716
       }
     },
     "address": "Colorado, United States",
@@ -1209,8 +1209,8 @@
       "city": "Richland",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 46.2804298,
+        "lng": -119.275205
       },
       "state": "Washington"
     },
@@ -1225,8 +1225,8 @@
       "city": "Hopkins",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.9043212,
+        "lng": -80.8770342
       },
       "state": "South Carolina"
     },
@@ -1241,8 +1241,8 @@
       "city": "Columbus",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.9622601,
+        "lng": -83.0007065
       },
       "state": "Ohio"
     },
@@ -1257,8 +1257,8 @@
       "city": "Concepcion",
       "country": "Chile",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -36.8270698,
+        "lng": -73.0502064
       }
     },
     "address": "Concepcion, Chile",
@@ -1272,8 +1272,8 @@
       "city": "Frederiksberg",
       "country": "Denmark",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 55.678016,
+        "lng": 12.5326186
       },
       "region": "Hovedstaden"
     },
@@ -1288,8 +1288,8 @@
       "city": "Córdoba",
       "country": "Argentina",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -31.4166867,
+        "lng": -64.1834193
       }
     },
     "address": "Córdoba, Argentina",
@@ -1303,8 +1303,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -1318,8 +1318,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -1333,8 +1333,8 @@
       "city": "Curitiba",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -25.4295963,
+        "lng": -49.2712724
       },
       "region": "Parana"
     },
@@ -1349,8 +1349,8 @@
       "city": "Peru",
       "country": "Peru",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -6.8699697,
+        "lng": -75.0458515
       }
     },
     "address": "Peru",
@@ -1364,8 +1364,8 @@
       "city": "Dallas",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 32.7762719,
+        "lng": -96.7968559
       },
       "state": "Texas"
     },
@@ -1380,8 +1380,8 @@
       "city": "Davao",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 7.0648306,
+        "lng": 125.6080623
       }
     },
     "address": "Davao, Philippines",
@@ -1395,8 +1395,8 @@
       "city": "Centennial",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.579155,
+        "lng": -104.8769227
       },
       "state": "Colorado"
     },
@@ -1411,8 +1411,8 @@
       "city": "Iowa",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.9216734,
+        "lng": -93.3122705
       }
     },
     "address": "Iowa, United States",
@@ -1426,8 +1426,8 @@
       "city": "Tooele",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.4062872,
+        "lng": -113.1966394
       },
       "state": "Utah"
     },
@@ -1442,8 +1442,8 @@
       "city": "Bloomfield Hills",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.583645,
+        "lng": -83.2454883
       },
       "state": "Michigan"
     },
@@ -1458,8 +1458,8 @@
       "city": "Draper",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.5247777,
+        "lng": -111.8627989
       },
       "state": "Utah"
     },
@@ -1474,8 +1474,8 @@
       "city": "United Arab Emirates",
       "country": "United Arab Emirates",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 24.0002488,
+        "lng": 53.9994829
       }
     },
     "address": "United Arab Emirates",
@@ -1489,8 +1489,8 @@
       "city": "Ireland",
       "country": "Ireland",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 52.865196,
+        "lng": -7.9794599
       }
     },
     "address": "Ireland",
@@ -1504,8 +1504,8 @@
       "city": "Durban",
       "country": "South Africa",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -29.861825,
+        "lng": 31.009909
       }
     },
     "address": "Durban, South Africa",
@@ -1519,8 +1519,8 @@
       "city": "United Kingdom",
       "country": "United Kingdom",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 54.7023545,
+        "lng": -3.2765753
       }
     },
     "address": "United Kingdom",
@@ -1534,8 +1534,8 @@
       "city": "Edmonton",
       "country": "Canada",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 53.5462055,
+        "lng": -113.491241
       },
       "state": "Alberta"
     },
@@ -1550,8 +1550,8 @@
       "city": "Nigeria",
       "country": "Nigeria",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 9.6000359,
+        "lng": 7.9999721
       }
     },
     "address": "Nigeria",
@@ -1565,8 +1565,8 @@
       "city": "Texas",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.2638905,
+        "lng": -98.5456116
       }
     },
     "address": "Texas, United States",
@@ -1580,8 +1580,8 @@
       "city": "Nevada",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.5158825,
+        "lng": -116.853722
       }
     },
     "address": "Nevada, United States",
@@ -1595,8 +1595,8 @@
       "city": "Utah",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.4225192,
+        "lng": -111.714358
       }
     },
     "address": "Utah, United States",
@@ -1610,8 +1610,8 @@
       "city": "Alaska",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 64.4459613,
+        "lng": -149.680909
       }
     },
     "address": "Alaska, United States",
@@ -1625,8 +1625,8 @@
       "city": "Texas",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.2638905,
+        "lng": -98.5456116
       }
     },
     "address": "Texas, United States",
@@ -1640,8 +1640,8 @@
       "city": "New Mexico",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.5802074,
+        "lng": -105.996047
       }
     },
     "address": "New Mexico, United States",
@@ -1655,8 +1655,8 @@
       "city": "Yuba City",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.1404477,
+        "lng": -121.6169108
       },
       "state": "California"
     },
@@ -1671,8 +1671,8 @@
       "city": "Arizona",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.395342,
+        "lng": -111.763275
       }
     },
     "address": "Arizona, United States",
@@ -1686,8 +1686,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -1701,8 +1701,8 @@
       "city": "Fort Collins",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.5871782,
+        "lng": -105.0770113
       },
       "state": "Colorado"
     },
@@ -1717,8 +1717,8 @@
       "city": "Davie",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 26.0628665,
+        "lng": -80.2331038
       },
       "state": "Florida"
     },
@@ -1733,8 +1733,8 @@
       "city": "Texas",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.2638905,
+        "lng": -98.5456116
       }
     },
     "address": "Texas, United States",
@@ -1748,8 +1748,8 @@
       "city": "Fortaleza",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -3.7304512,
+        "lng": -38.5217989
       },
       "region": "Ceara"
     },
@@ -1764,8 +1764,8 @@
       "city": "Friedrichsdorf",
       "country": "Germany",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.2620906,
+        "lng": 8.6248898
       },
       "region": "Hessen"
     },
@@ -1780,8 +1780,8 @@
       "city": "Sierra Leone",
       "country": "Sierra Leone",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 8.6400349,
+        "lng": -11.8400269
       }
     },
     "address": "Sierra Leone",
@@ -1795,8 +1795,8 @@
       "city": "Freiberg",
       "country": "Germany",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.9169415,
+        "lng": 13.3428889
       },
       "region": "Sachsen"
     },
@@ -1811,8 +1811,8 @@
       "city": "Fresno",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 36.7394421,
+        "lng": -119.78483
       },
       "state": "California"
     },
@@ -1827,8 +1827,8 @@
       "city": "Fukuoka-shi",
       "country": "Japan",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.5898988,
+        "lng": 130.4017509
       },
       "region": "Fukuoka"
     },
@@ -1843,8 +1843,8 @@
       "city": "Gilbert",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.3527632,
+        "lng": -111.789037
       },
       "state": "Arizona"
     },
@@ -1859,8 +1859,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -1874,8 +1874,8 @@
       "city": "Colorado",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.7251776,
+        "lng": -105.607716
       }
     },
     "address": "Colorado, United States",
@@ -1889,8 +1889,8 @@
       "city": "Michigan",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6211955,
+        "lng": -84.6824346
       }
     },
     "address": "Michigan, United States",
@@ -1904,8 +1904,8 @@
       "city": "South Carolina",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.6874388,
+        "lng": -80.4363743
       }
     },
     "address": "South Carolina, United States",
@@ -1919,8 +1919,8 @@
       "city": "Zapopan",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 20.7211203,
+        "lng": -103.3913671
       },
       "region": "Jalisco"
     },
@@ -1935,8 +1935,8 @@
       "city": "Guatemala City",
       "country": "Guatemala",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 14.6416142,
+        "lng": -90.5132836
       },
       "region": "Guatemala"
     },
@@ -1951,8 +1951,8 @@
       "city": "Guayaquil",
       "country": "Ecuador",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -2.2895167,
+        "lng": -80.0983887
       },
       "region": "Guayas"
     },
@@ -1967,8 +1967,8 @@
       "city": "Dartmouth",
       "country": "Canada",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 44.6799707,
+        "lng": -63.5720232
       },
       "state": "Nova Scotia"
     },
@@ -1983,8 +1983,8 @@
       "city": "Germany",
       "country": "Germany",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 51.1638175,
+        "lng": 10.4478313
       }
     },
     "address": "Germany",
@@ -1998,8 +1998,8 @@
       "city": "Hamilton",
       "country": "New Zealand",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -36.8404224,
+        "lng": 174.7368685
       },
       "region": "Auckland"
     },
@@ -2014,8 +2014,8 @@
       "city": "Harare",
       "country": "Zimbabwe",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -17.8567035,
+        "lng": 31.0601584
       }
     },
     "address": "Harare, Zimbabwe",
@@ -2029,8 +2029,8 @@
       "city": "Pennsylvania",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.9699889,
+        "lng": -77.7278831
       }
     },
     "address": "Pennsylvania, United States",
@@ -2044,8 +2044,8 @@
       "city": "Farmington",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.7198216,
+        "lng": -72.8320435
       },
       "state": "Connecticut"
     },
@@ -2060,8 +2060,8 @@
       "city": "Utah",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.4225192,
+        "lng": -111.714358
       }
     },
     "address": "Utah, United States",
@@ -2075,8 +2075,8 @@
       "city": "Helena",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 46.5927425,
+        "lng": -112.036277
       },
       "state": "Montana"
     },
@@ -2091,8 +2091,8 @@
       "city": "Espoo",
       "country": "Finland",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 60.2049651,
+        "lng": 24.6559808
       },
       "region": "Uusimaa"
     },
@@ -2107,8 +2107,8 @@
       "city": "Hermosillo",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 29.0948207,
+        "lng": -110.9692202
       },
       "region": "Sonora"
     },
@@ -2123,8 +2123,8 @@
       "city": "Kowloon Tong",
       "country": "Hong Kong",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 22.3368093,
+        "lng": 114.177245
       },
       "region": "Kowloon City"
     },
@@ -2139,8 +2139,8 @@
       "city": "Hawaii",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 19.5938015,
+        "lng": -155.4283701
       }
     },
     "address": "Hawaii, United States",
@@ -2154,8 +2154,8 @@
       "city": "Texas",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.2638905,
+        "lng": -98.5456116
       }
     },
     "address": "Texas, United States",
@@ -2169,8 +2169,8 @@
       "city": "Spring",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 30.0795707,
+        "lng": -95.4187924
       },
       "state": "Texas"
     },
@@ -2185,8 +2185,8 @@
       "city": "Peru",
       "country": "Peru",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -6.8699697,
+        "lng": -75.0458515
       }
     },
     "address": "Peru",
@@ -2200,8 +2200,8 @@
       "city": "Guatemala",
       "country": "Guatemala",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 15.5855545,
+        "lng": -90.345759
       }
     },
     "address": "Guatemala",
@@ -2215,8 +2215,8 @@
       "city": "Alabama",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.2588817,
+        "lng": -86.8295337
       }
     },
     "address": "Alabama, United States",
@@ -2230,8 +2230,8 @@
       "city": "Idaho Falls",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.4887907,
+        "lng": -112.03628
       },
       "state": "Idaho"
     },
@@ -2246,8 +2246,8 @@
       "city": "Philippines",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 12.7503486,
+        "lng": 122.7312101
       }
     },
     "address": "Philippines",
@@ -2261,8 +2261,8 @@
       "city": "Carmel",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.9784186,
+        "lng": -86.1283681
       },
       "state": "Indiana"
     },
@@ -2277,8 +2277,8 @@
       "city": "Peru",
       "country": "Peru",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -6.8699697,
+        "lng": -75.0458515
       }
     },
     "address": "Peru",
@@ -2292,8 +2292,8 @@
       "city": "Florida",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 27.7567667,
+        "lng": -81.4639835
       }
     },
     "address": "Florida, United States",
@@ -2307,8 +2307,8 @@
       "city": "Indonesia",
       "country": "Indonesia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -2.4833826,
+        "lng": 117.8902853
       }
     },
     "address": "Indonesia",
@@ -2322,8 +2322,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -2337,8 +2337,8 @@
       "city": "Johannesburg",
       "country": "South Africa",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -26.205,
+        "lng": 28.049722
       },
       "region": "Gauteng"
     },
@@ -2353,8 +2353,8 @@
       "city": "South Jordan",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.5584882,
+        "lng": -111.9367107
       },
       "state": "Utah"
     },
@@ -2369,8 +2369,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -2384,8 +2384,8 @@
       "city": "Hawaii",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 19.5938015,
+        "lng": -155.4283701
       }
     },
     "address": "Hawaii, United States",
@@ -2399,8 +2399,8 @@
       "city": "Uganda",
       "country": "Uganda",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 1.5333554,
+        "lng": 32.2166578
       }
     },
     "address": "Uganda",
@@ -2414,8 +2414,8 @@
       "city": "Democratic Republic of the Congo",
       "country": "Democratic Republic of the Congo",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -2.9814344,
+        "lng": 23.8222636
       }
     },
     "address": "Democratic Republic of the Congo",
@@ -2429,8 +2429,8 @@
       "city": "Kansas City",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.100105,
+        "lng": -94.5781416
       },
       "state": "Missouri"
     },
@@ -2445,8 +2445,8 @@
       "city": "Taiwan",
       "country": "Taiwan",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.9739374,
+        "lng": 120.9820179
       }
     },
     "address": "Taiwan",
@@ -2460,8 +2460,8 @@
       "city": "Kinshasa",
       "country": "Democratic Republic of the Congo",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -4.32171,
+        "lng": 15.3122511
       }
     },
     "address": "Kinshasa, Democratic Republic of the Congo",
@@ -2475,8 +2475,8 @@
       "city": "Tennessee",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.7730076,
+        "lng": -86.2820081
       }
     },
     "address": "Tennessee, United States",
@@ -2490,8 +2490,8 @@
       "city": "Kailua-Kona",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 19.641941,
+        "lng": -155.996933
       },
       "state": "Hawaii"
     },
@@ -2506,8 +2506,8 @@
       "city": "Ghana",
       "country": "Ghana",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 8.0300284,
+        "lng": -1.0800271
       }
     },
     "address": "Ghana",
@@ -2537,8 +2537,8 @@
       "city": "Bolivia",
       "country": "Bolivia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -17.0568696,
+        "lng": -64.9912286
       }
     },
     "address": "Bolivia",
@@ -2552,8 +2552,8 @@
       "city": "Nigeria",
       "country": "Nigeria",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 9.6000359,
+        "lng": 7.9999721
       }
     },
     "address": "Nigeria",
@@ -2567,8 +2567,8 @@
       "city": "Laie",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 21.6438449,
+        "lng": -157.924442
       },
       "state": "Hawaii"
     },
@@ -2583,8 +2583,8 @@
       "city": "Philippines",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 12.7503486,
+        "lng": 122.7312101
       }
     },
     "address": "Philippines",
@@ -2598,8 +2598,8 @@
       "city": "Las Vegas",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 36.1674263,
+        "lng": -115.1484131
       },
       "state": "Nevada"
     },
@@ -2614,8 +2614,8 @@
       "city": "Layton",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.0751048,
+        "lng": -111.9741925
       },
       "state": "Utah"
     },
@@ -2630,8 +2630,8 @@
       "city": "Utah",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.4225192,
+        "lng": -111.714358
       }
     },
     "address": "Utah, United States",
@@ -2645,8 +2645,8 @@
       "city": "Alberta",
       "country": "Canada",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 55.001251,
+        "lng": -115.002136
       }
     },
     "address": "Alberta, Canada",
@@ -2660,8 +2660,8 @@
       "city": "Los Olivos",
       "country": "Peru",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -11.9916722,
+        "lng": -77.0709115
       },
       "region": "Lima"
     },
@@ -2676,8 +2676,8 @@
       "city": "La Molina",
       "country": "Peru",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -12.077983,
+        "lng": -76.9172838
       },
       "region": "Lima"
     },
@@ -2692,8 +2692,8 @@
       "city": "Lindon",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.3432857,
+        "lng": -111.72076
       },
       "state": "Utah"
     },
@@ -2708,8 +2708,8 @@
       "city": "Lisbon",
       "country": "Portugal",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.7077507,
+        "lng": -9.1365919
       }
     },
     "address": "Lisbon, Portugal",
@@ -2723,8 +2723,8 @@
       "city": "Australia",
       "country": "Australia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -24.7761086,
+        "lng": 134.755
       }
     },
     "address": "Australia",
@@ -2738,8 +2738,8 @@
       "city": "Logan",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.7313063,
+        "lng": -111.834914
       },
       "state": "Utah"
     },
@@ -2754,8 +2754,8 @@
       "city": "Newchapel",
       "country": "England",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 51.164538,
+        "lng": -0.0497849
       },
       "region": "Surrey"
     },
@@ -2770,8 +2770,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -2785,8 +2785,8 @@
       "city": "Nevada",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.5158825,
+        "lng": -116.853722
       }
     },
     "address": "Nevada, United States",
@@ -2800,8 +2800,8 @@
       "city": "Los Angeles",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.0536909,
+        "lng": -118.242766
       },
       "state": "California"
     },
@@ -2816,8 +2816,8 @@
       "city": "Crestwood",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.3235441,
+        "lng": -85.4726215
       },
       "state": "Kentucky"
     },
@@ -2832,8 +2832,8 @@
       "city": "Angola",
       "country": "Angola",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -11.8775768,
+        "lng": 17.5691241
       }
     },
     "address": "Angola",
@@ -2847,8 +2847,8 @@
       "city": "Lubbock",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.5855677,
+        "lng": -101.8470215
       },
       "state": "Texas"
     },
@@ -2863,8 +2863,8 @@
       "city": "Democratic Republic of the Congo",
       "country": "Democratic Republic of the Congo",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -2.9814344,
+        "lng": 23.8222636
       }
     },
     "address": "Democratic Republic of the Congo",
@@ -2878,8 +2878,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -2893,8 +2893,8 @@
       "city": "Madrid",
       "country": "Spain",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.4237276,
+        "lng": -3.6899043
       },
       "region": "Madrid"
     },
@@ -2909,8 +2909,8 @@
       "city": "Nicaragua",
       "country": "Nicaragua",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 12.3506436,
+        "lng": -85.7841006
       }
     },
     "address": "Nicaragua",
@@ -2924,8 +2924,8 @@
       "city": "Manaus",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -3.1316333,
+        "lng": -59.9825041
       },
       "region": "Amazonas"
     },
@@ -2940,8 +2940,8 @@
       "city": "New York",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.7127281,
+        "lng": -74.0060152
       },
       "state": "New York"
     },
@@ -2956,8 +2956,8 @@
       "city": "Quezon City",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 14.6510546,
+        "lng": 121.0486254
       },
       "region": "Metro Manila"
     },
@@ -2972,8 +2972,8 @@
       "city": "Manti",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.2682951,
+        "lng": -111.636862
       },
       "state": "Utah"
     },
@@ -2988,8 +2988,8 @@
       "city": "Mozambique",
       "country": "Mozambique",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -19.302233,
+        "lng": 34.9144977
       }
     },
     "address": "Mozambique",
@@ -3003,8 +3003,8 @@
       "city": "Venezuela",
       "country": "Venezuela",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 8.0018709,
+        "lng": -66.1109318
       }
     },
     "address": "Venezuela",
@@ -3018,8 +3018,8 @@
       "city": "Democratic Republic of the Congo",
       "country": "Democratic Republic of the Congo",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -2.9814344,
+        "lng": 23.8222636
       }
     },
     "address": "Democratic Republic of the Congo",
@@ -3033,8 +3033,8 @@
       "city": "McAllen",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 26.204114,
+        "lng": -98.2300605
       },
       "state": "Texas"
     },
@@ -3049,8 +3049,8 @@
       "city": "Colombia",
       "country": "Colombia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 4.099917,
+        "lng": -72.9088133
       }
     },
     "address": "Colombia",
@@ -3064,8 +3064,8 @@
       "city": "Central Point",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.376782,
+        "lng": -122.912721
       },
       "state": "Oregon"
     },
@@ -3080,8 +3080,8 @@
       "city": "Wantirna South",
       "country": "Australia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -37.8737902,
+        "lng": 145.2217475
       },
       "region": "Victoria"
     },
@@ -3096,8 +3096,8 @@
       "city": "Bartlett",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.2045329,
+        "lng": -89.8739753
       },
       "state": "Tennessee"
     },
@@ -3112,8 +3112,8 @@
       "city": "Mendoza",
       "country": "Argentina",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.787093,
+        "lng": -68.4381868
       }
     },
     "address": "Mendoza, Argentina",
@@ -3127,8 +3127,8 @@
       "city": "Mérida",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 20.9670759,
+        "lng": -89.6237402
       },
       "region": "Yucatan"
     },
@@ -3143,8 +3143,8 @@
       "city": "Meridian",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6086295,
+        "lng": -116.392326
       },
       "state": "Idaho"
     },
@@ -3159,8 +3159,8 @@
       "city": "Mesa",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.4151005,
+        "lng": -111.831455
       },
       "state": "Arizona"
     },
@@ -3175,8 +3175,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -3190,8 +3190,8 @@
       "city": "México",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 19.4326296,
+        "lng": -99.1331785
       },
       "region": "Distrito Federal"
     },
@@ -3206,8 +3206,8 @@
       "city": "Italy",
       "country": "Italy",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.6384261,
+        "lng": 12.674297
       }
     },
     "address": "Italy",
@@ -3221,8 +3221,8 @@
       "city": "Wisconsin",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 44.4308975,
+        "lng": -89.6884637
       }
     },
     "address": "Wisconsin, United States",
@@ -3236,8 +3236,8 @@
       "city": "Guatemala",
       "country": "Guatemala",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 15.5855545,
+        "lng": -90.345759
       }
     },
     "address": "Guatemala",
@@ -3251,8 +3251,8 @@
       "city": "Montana",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 47.3752671,
+        "lng": -109.638757
       }
     },
     "address": "Montana, United States",
@@ -3266,8 +3266,8 @@
       "city": "California",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 36.7014631,
+        "lng": -118.755997
       }
     },
     "address": "California, United States",
@@ -3281,8 +3281,8 @@
       "city": "Liberia",
       "country": "Liberia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 5.7499721,
+        "lng": -9.3658524
       }
     },
     "address": "Liberia",
@@ -3296,8 +3296,8 @@
       "city": "Monterrey",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 25.6802019,
+        "lng": -100.315258
       },
       "region": "Nuevo Leon"
     },
@@ -3312,8 +3312,8 @@
       "city": "Carrasco",
       "country": "Uruguay",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.8855774,
+        "lng": -56.0581498
       },
       "region": "Montevideo"
     },
@@ -3328,8 +3328,8 @@
       "city": "Monticello",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 37.8750565,
+        "lng": -109.3403148
       },
       "state": "Utah"
     },
@@ -3344,8 +3344,8 @@
       "city": "Idaho",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6447642,
+        "lng": -114.015407
       }
     },
     "address": "Idaho, United States",
@@ -3359,8 +3359,8 @@
       "city": "Longueuil",
       "country": "Canada",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 45.521906,
+        "lng": -73.4644578
       },
       "state": "Quebec"
     },
@@ -3375,8 +3375,8 @@
       "city": "Moses Lake",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 47.1301417,
+        "lng": -119.278077
       },
       "state": "Washington"
     },
@@ -3391,8 +3391,8 @@
       "city": "American Fork",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.3768064,
+        "lng": -111.7959146
       },
       "state": "Utah"
     },
@@ -3407,8 +3407,8 @@
       "city": "Philippines",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 12.7503486,
+        "lng": 122.7312101
       }
     },
     "address": "Philippines",
@@ -3422,8 +3422,8 @@
       "city": "Nairobi",
       "country": "Kenya",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -1.2832533,
+        "lng": 36.8172449
       }
     },
     "address": "Nairobi, Kenya",
@@ -3437,8 +3437,8 @@
       "city": "Franklin",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.925206,
+        "lng": -86.8689419
       },
       "state": "Tennessee"
     },
@@ -3453,8 +3453,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -3468,8 +3468,8 @@
       "city": "Nauvoo",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.550042,
+        "lng": -91.3848749
       },
       "state": "Illinois"
     },
@@ -3499,8 +3499,8 @@
       "city": "Newport Beach",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.6170092,
+        "lng": -117.9294401
       },
       "state": "California"
     },
@@ -3515,8 +3515,8 @@
       "city": "Virginia",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 37.1232245,
+        "lng": -78.4927721
       }
     },
     "address": "Virginia, United States",
@@ -3530,8 +3530,8 @@
       "city": "New Caledonia",
       "country": "New Caledonia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -20.6378428,
+        "lng": 161.2117626
       }
     },
     "address": "New Caledonia",
@@ -3545,8 +3545,8 @@
       "city": "Liahona",
       "country": "Tonga",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -21.1553104,
+        "lng": -175.2711434
       },
       "region": "Tongatapu"
     },
@@ -3561,8 +3561,8 @@
       "city": "Oakland",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 37.8044557,
+        "lng": -122.271356
       },
       "state": "California"
     },
@@ -3577,8 +3577,8 @@
       "city": "Oaxaca",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 17.0604663,
+        "lng": -96.7253575
       },
       "region": "Oaxaca"
     },
@@ -3593,8 +3593,8 @@
       "city": "Ogden",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.2230048,
+        "lng": -111.9738429
       },
       "state": "Utah"
     },
@@ -3609,8 +3609,8 @@
       "city": "Okinawa",
       "country": "Japan",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 26.5707754,
+        "lng": 128.0255901
       }
     },
     "address": "Okinawa, Japan",
@@ -3624,8 +3624,8 @@
       "city": "Yukon",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.5067259,
+        "lng": -97.7625386
       },
       "state": "Oklahoma"
     },
@@ -3640,8 +3640,8 @@
       "city": "South Jordan",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.5584882,
+        "lng": -111.9367107
       },
       "state": "Utah"
     },
@@ -3656,8 +3656,8 @@
       "city": "Orem",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.2981599,
+        "lng": -111.6944313
       },
       "state": "Utah"
     },
@@ -3672,8 +3672,8 @@
       "city": "Windermere",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.4944695,
+        "lng": -81.5345547
       },
       "state": "Florida"
     },
@@ -3688,8 +3688,8 @@
       "city": "Japan",
       "country": "Japan",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 36.5748441,
+        "lng": 139.2394179
       }
     },
     "address": "Japan",
@@ -3703,8 +3703,8 @@
       "city": "Norway",
       "country": "Norway",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 61.1529386,
+        "lng": 8.7876653
       }
     },
     "address": "Norway",
@@ -3718,8 +3718,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -3733,8 +3733,8 @@
       "city": "Tafuna",
       "country": "American Samoa",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -14.3278269,
+        "lng": -170.7255437
       },
       "region": "Western District"
     },
@@ -3749,8 +3749,8 @@
       "city": "Palmyra",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.0623754,
+        "lng": -77.2347245
       },
       "state": "New York"
     },
@@ -3765,8 +3765,8 @@
       "city": "Corozal",
       "country": "Panamá",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 8.989364,
+        "lng": -79.5723645
       },
       "region": "Ancon"
     },
@@ -3797,8 +3797,8 @@
       "city": "Le Chesnay",
       "country": "France",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.8264842,
+        "lng": 2.1257808
       }
     },
     "address": "Le Chesnay, France",
@@ -3812,8 +3812,8 @@
       "city": "Payson",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.0443989,
+        "lng": -111.7321518
       },
       "state": "Utah"
     },
@@ -3828,8 +3828,8 @@
       "city": "Yokine",
       "country": "Australia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -31.90171,
+        "lng": 115.8525017
       },
       "region": "Western Australia"
     },
@@ -3844,8 +3844,8 @@
       "city": "Philadelphia",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.9527237,
+        "lng": -75.1635262
       },
       "state": "Pennsylvania"
     },
@@ -3860,8 +3860,8 @@
       "city": "Phnom Penh",
       "country": "Cambodia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 11.5730391,
+        "lng": 104.857807
       }
     },
     "address": "Phnom Penh, Cambodia",
@@ -3875,8 +3875,8 @@
       "city": "Phoenix",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.4484367,
+        "lng": -112.074141
       },
       "state": "Arizona"
     },
@@ -3891,8 +3891,8 @@
       "city": "Cranberry Township",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.7099343,
+        "lng": -80.1060506
       },
       "state": "Pennsylvania"
     },
@@ -3907,8 +3907,8 @@
       "city": "Peru",
       "country": "Peru",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -6.8699697,
+        "lng": -75.0458515
       }
     },
     "address": "Peru",
@@ -3922,8 +3922,8 @@
       "city": "Pocatello",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.8620287,
+        "lng": -112.450627
       },
       "state": "Idaho"
     },
@@ -3938,8 +3938,8 @@
       "city": "Papua New Guinea",
       "country": "Papua New Guinea",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -5.6816069,
+        "lng": 144.2489081
       }
     },
     "address": "Papua New Guinea",
@@ -3953,8 +3953,8 @@
       "city": "Vanuatu",
       "country": "Vanuatu",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -16.5255069,
+        "lng": 168.1069154
       }
     },
     "address": "Vanuatu",
@@ -3968,8 +3968,8 @@
       "city": "Port-au-Prince",
       "country": "Haiti",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 18.547327,
+        "lng": -72.3395928
       }
     },
     "address": "Port-au-Prince, Haiti",
@@ -3983,8 +3983,8 @@
       "city": "Lake Oswego",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 45.4206749,
+        "lng": -122.670649
       },
       "state": "Oregon"
     },
@@ -3999,8 +3999,8 @@
       "city": "Porto Alegre",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -30.0784143,
+        "lng": -51.2383105
       },
       "region": "Rio Grande do Sul"
     },
@@ -4015,8 +4015,8 @@
       "city": "Portugal",
       "country": "Portugal",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.6621648,
+        "lng": -8.1353519
       }
     },
     "address": "Portugal",
@@ -4030,8 +4030,8 @@
       "city": "Praia",
       "country": "Cape Verde",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 14.9162811,
+        "lng": -23.5095095
       }
     },
     "address": "Praia, Cape Verde",
@@ -4045,8 +4045,8 @@
       "city": "Chorley",
       "country": "England",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 53.6531915,
+        "lng": -2.6294313
       },
       "region": "Lancashire"
     },
@@ -4061,8 +4061,8 @@
       "city": "Utah",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.4225192,
+        "lng": -111.714358
       }
     },
     "address": "Utah, United States",
@@ -4076,8 +4076,8 @@
       "city": "Provo",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.2337289,
+        "lng": -111.6587085
       },
       "state": "Utah"
     },
@@ -4092,8 +4092,8 @@
       "city": "Provo",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.2337289,
+        "lng": -111.6587085
       },
       "state": "Utah"
     },
@@ -4108,8 +4108,8 @@
       "city": "Puebla",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 19.0437196,
+        "lng": -98.1981486
       },
       "region": "Puebla"
     },
@@ -4124,8 +4124,8 @@
       "city": "Chile",
       "country": "Chile",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -31.7613365,
+        "lng": -71.3187697
       }
     },
     "address": "Chile",
@@ -4139,8 +4139,8 @@
       "city": "Arizona",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.395342,
+        "lng": -111.763275
       }
     },
     "address": "Arizona, United States",
@@ -4154,8 +4154,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -4185,8 +4185,8 @@
       "city": "Quito",
       "country": "Ecuador",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -0.2201641,
+        "lng": -78.5123274
       }
     },
     "address": "Quito, Ecuador",
@@ -4200,8 +4200,8 @@
       "city": "Apex",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.7325352,
+        "lng": -78.8505516
       },
       "state": "North Carolina"
     },
@@ -4216,8 +4216,8 @@
       "city": "South Dakota",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 44.6471761,
+        "lng": -100.348761
       }
     },
     "address": "South Dakota, United States",
@@ -4231,8 +4231,8 @@
       "city": "Recife",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -8.0584933,
+        "lng": -34.8848193
       },
       "region": "Pernambuco"
     },
@@ -4247,8 +4247,8 @@
       "city": "St. George",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 37.104153,
+        "lng": -113.584131
       },
       "state": "Utah"
     },
@@ -4263,8 +4263,8 @@
       "city": "Redlands",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.0550328,
+        "lng": -117.1827445
       },
       "state": "California"
     },
@@ -4279,8 +4279,8 @@
       "city": "Regina",
       "country": "Canada",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.4479733,
+        "lng": -104.6158764
       },
       "state": "Saskatchewan"
     },
@@ -4295,8 +4295,8 @@
       "city": "Reno",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.5261788,
+        "lng": -119.812658
       },
       "state": "Nevada"
     },
@@ -4311,8 +4311,8 @@
       "city": "Guatemala",
       "country": "Guatemala",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 15.5855545,
+        "lng": -90.345759
       }
     },
     "address": "Guatemala",
@@ -4326,8 +4326,8 @@
       "city": "Rexburg",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.8235163,
+        "lng": -111.787022
       },
       "state": "Idaho"
     },
@@ -4342,8 +4342,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -4357,8 +4357,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -4372,8 +4372,8 @@
       "city": "Glen Allen",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 37.664879,
+        "lng": -77.4871236
       },
       "state": "Virginia"
     },
@@ -4388,8 +4388,8 @@
       "city": "Rio de Janeiro",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -22.9110137,
+        "lng": -43.2093727
       }
     },
     "address": "Rio de Janeiro, Brazil",
@@ -4403,8 +4403,8 @@
       "city": "Uruguay",
       "country": "Uruguay",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -32.8755548,
+        "lng": -56.0201525
       }
     },
     "address": "Uruguay",
@@ -4418,8 +4418,8 @@
       "city": "Virginia",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 37.1232245,
+        "lng": -78.4927721
       }
     },
     "address": "Virginia, United States",
@@ -4433,8 +4433,8 @@
       "city": "Rome",
       "country": "Italy",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.8933203,
+        "lng": 12.4829321
       },
       "region": "Roma"
     },
@@ -4449,8 +4449,8 @@
       "city": "Argentina",
       "country": "Argentina",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.9964963,
+        "lng": -64.9672817
       }
     },
     "address": "Argentina",
@@ -4464,8 +4464,8 @@
       "city": "Russia",
       "country": "Russia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 64.6863136,
+        "lng": 97.7453061
       }
     },
     "address": "Russia",
@@ -4479,8 +4479,8 @@
       "city": "Rancho Cordova",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.5890723,
+        "lng": -121.302728
       },
       "state": "California"
     },
@@ -4495,8 +4495,8 @@
       "city": "Salt Lake City",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.7596198,
+        "lng": -111.886797
       },
       "state": "Utah"
     },
@@ -4511,8 +4511,8 @@
       "city": "Salta",
       "country": "Argentina",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -25.1076701,
+        "lng": -64.3494964
       }
     },
     "address": "Salta, Argentina",
@@ -4526,8 +4526,8 @@
       "city": "Salvador",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -12.9822499,
+        "lng": -38.4812772
       },
       "region": "Bahia"
     },
@@ -4542,8 +4542,8 @@
       "city": "San Antonio",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 29.4246002,
+        "lng": -98.4951405
       },
       "state": "Texas"
     },
@@ -4558,8 +4558,8 @@
       "city": "San Diego",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 32.7174202,
+        "lng": -117.162772
       },
       "state": "California"
     },
@@ -4574,8 +4574,8 @@
       "city": "California",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 36.7014631,
+        "lng": -118.755997
       }
     },
     "address": "California, United States",
@@ -4589,8 +4589,8 @@
       "city": "Belén",
       "country": "Costa Rica",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 9.9793107,
+        "lng": -84.1856026
       },
       "region": "Heredia"
     },
@@ -4605,8 +4605,8 @@
       "city": "Philippines",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 12.7503486,
+        "lng": 122.7312101
       }
     },
     "address": "Philippines",
@@ -4620,8 +4620,8 @@
       "city": "San Juan",
       "country": "Puerto Rico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 18.384239,
+        "lng": -66.05344
       }
     },
     "address": "San Juan, Puerto Rico",
@@ -4635,8 +4635,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -4650,8 +4650,8 @@
       "city": "San Pedro Sula",
       "country": "Honduras",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 15.5062156,
+        "lng": -88.0248937
       }
     },
     "address": "San Pedro Sula, Honduras",
@@ -4665,8 +4665,8 @@
       "city": "Antiguo Cuscatlán",
       "country": "El Salvador",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 13.6728051,
+        "lng": -89.2466483
       },
       "region": "La Libertad"
     },
@@ -4681,8 +4681,8 @@
       "city": "El Salvador",
       "country": "El Salvador",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 13.8000382,
+        "lng": -88.9140683
       }
     },
     "address": "El Salvador",
@@ -4696,8 +4696,8 @@
       "city": "Bolivia",
       "country": "Bolivia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -17.0568696,
+        "lng": -64.9912286
       }
     },
     "address": "Bolivia",
@@ -4711,8 +4711,8 @@
       "city": "Providencia",
       "country": "Chile",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -33.4408607,
+        "lng": -70.6642078
       },
       "region": "Santiago"
     },
@@ -4727,8 +4727,8 @@
       "city": "Dominican Republic",
       "country": "Dominican Republic",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 19.0974031,
+        "lng": -70.3028026
       }
     },
     "address": "Dominican Republic",
@@ -4742,8 +4742,8 @@
       "city": "Philippines",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 12.7503486,
+        "lng": 122.7312101
       }
     },
     "address": "Philippines",
@@ -4757,8 +4757,8 @@
       "city": "Chile",
       "country": "Chile",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -31.7613365,
+        "lng": -71.3187697
       }
     },
     "address": "Chile",
@@ -4772,8 +4772,8 @@
       "city": "Santo Domingo",
       "country": "Dominican Republic",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 18.4801972,
+        "lng": -69.942111
       },
       "region": "Distrito Nacional"
     },
@@ -4788,8 +4788,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -4803,8 +4803,8 @@
       "city": "São Paulo",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -23.5506507,
+        "lng": -46.6333824
       },
       "region": "Sao Paulo"
     },
@@ -4819,8 +4819,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -4834,8 +4834,8 @@
       "city": "Atsubetsu-ku Sapporo",
       "country": "Japan",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.0363459,
+        "lng": 141.4746682
       },
       "region": "Hokkaido"
     },
@@ -4850,8 +4850,8 @@
       "city": "Saratoga Springs",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.3862792,
+        "lng": -111.9130188
       },
       "state": "Utah"
     },
@@ -4866,8 +4866,8 @@
       "city": "Samoa",
       "country": "Samoa",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -13.7693895,
+        "lng": -172.12005
       }
     },
     "address": "Samoa",
@@ -4881,8 +4881,8 @@
       "city": "Bellevue",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 47.6144219,
+        "lng": -122.192337
       },
       "state": "Washington"
     },
@@ -4897,8 +4897,8 @@
       "city": "Seoul",
       "country": "South Korea",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 37.5560719,
+        "lng": 126.9723599
       },
       "region": "Seoul-teukbyeolsi"
     },
@@ -4913,8 +4913,8 @@
       "city": "China",
       "country": "China",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.000074,
+        "lng": 104.999927
       }
     },
     "address": "China",
@@ -4928,8 +4928,8 @@
       "city": "Singapore",
       "country": "Singapore",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 1.357107,
+        "lng": 103.8194992
       }
     },
     "address": "Singapore",
@@ -4943,8 +4943,8 @@
       "city": "Utah",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.4225192,
+        "lng": -111.714358
       }
     },
     "address": "Utah, United States",
@@ -4958,8 +4958,8 @@
       "city": "Snowflake",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.5114704,
+        "lng": -110.079608
       },
       "state": "Arizona"
     },
@@ -4974,8 +4974,8 @@
       "city": "Utah",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.4225192,
+        "lng": -111.714358
       }
     },
     "address": "Utah, United States",
@@ -4989,8 +4989,8 @@
       "city": "Spokane",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 47.6571934,
+        "lng": -117.42351
       },
       "state": "Washington"
     },
@@ -5005,8 +5005,8 @@
       "city": "Missouri",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.7604815,
+        "lng": -92.5617875
       }
     },
     "address": "Missouri, United States",
@@ -5020,8 +5020,8 @@
       "city": "St. George",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 37.104153,
+        "lng": -113.584131
       },
       "state": "Utah"
     },
@@ -5036,8 +5036,8 @@
       "city": "St. Louis",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.6280278,
+        "lng": -90.1910154
       },
       "state": "Missouri"
     },
@@ -5052,8 +5052,8 @@
       "city": "Oakdale",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 44.985624,
+        "lng": -92.9645794
       },
       "state": "Minnesota"
     },
@@ -5068,8 +5068,8 @@
       "city": "Afton",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.7252774,
+        "lng": -110.933402
       },
       "state": "Wyoming"
     },
@@ -5084,8 +5084,8 @@
       "city": "Vasterhaninge",
       "country": "Sweden",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 59.1221593,
+        "lng": 18.1085969
       }
     },
     "address": "Vasterhaninge, Sweden",
@@ -5099,8 +5099,8 @@
       "city": "New Jersey",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.0757384,
+        "lng": -74.4041622
       }
     },
     "address": "New Jersey, United States",
@@ -5114,8 +5114,8 @@
       "city": "Samabula",
       "country": "Fiji",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -18.1173104,
+        "lng": 178.4426504
       },
       "region": "Suva"
     },
@@ -5130,8 +5130,8 @@
       "city": "Carlingford",
       "country": "Australia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -33.7744947,
+        "lng": 151.0475215
       },
       "region": "New South Wales"
     },
@@ -5146,8 +5146,8 @@
       "city": "Syracuse",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.0895938,
+        "lng": -112.0638903
       },
       "state": "Utah"
     },
@@ -5162,8 +5162,8 @@
       "city": "Philippines",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 12.7503486,
+        "lng": 122.7312101
       }
     },
     "address": "Philippines",
@@ -5177,8 +5177,8 @@
       "city": "Washington",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.8950368,
+        "lng": -77.0365427
       }
     },
     "address": "Washington, United States",
@@ -5192,8 +5192,8 @@
       "city": "Taipei",
       "country": "Taiwan",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 25.0479308,
+        "lng": 121.5170046
       },
       "region": "Taipei"
     },
@@ -5208,8 +5208,8 @@
       "city": "Tallahassee",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 30.4380832,
+        "lng": -84.2809332
       },
       "state": "Florida"
     },
@@ -5224,8 +5224,8 @@
       "city": "Florida",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 27.7567667,
+        "lng": -81.4639835
       }
     },
     "address": "Florida, United States",
@@ -5239,8 +5239,8 @@
       "city": "Ciudad Madero",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 22.278368,
+        "lng": -97.8242861
       },
       "region": "Tamaulipas"
     },
@@ -5255,8 +5255,8 @@
       "city": "Kiribati",
       "country": "Kiribati",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 0.3448612,
+        "lng": 173.6641773
       }
     },
     "address": "Kiribati",
@@ -5270,8 +5270,8 @@
       "city": "Taylorsville",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.6676347,
+        "lng": -111.9388027
       },
       "state": "Utah"
     },
@@ -5286,8 +5286,8 @@
       "city": "Comayagüela",
       "country": "Honduras",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 14.0980079,
+        "lng": -87.2099671
       },
       "region": "Francisco Morazán"
     },
@@ -5302,8 +5302,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -5317,8 +5317,8 @@
       "city": "Idaho",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6447642,
+        "lng": -114.015407
       }
     },
     "address": "Idaho, United States",
@@ -5332,8 +5332,8 @@
       "city": "Central",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 32.8675652,
+        "lng": -109.7928591
       },
       "state": "Arizona"
     },
@@ -5348,8 +5348,8 @@
       "city": "Zoetermeer",
       "country": "Netherlands",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 52.0622531,
+        "lng": 4.4901218
       },
       "region": "Zuid-Holland"
     },
@@ -5364,8 +5364,8 @@
       "city": "Tijuana",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 32.5317397,
+        "lng": -117.019529
       },
       "region": "Baja California"
     },
@@ -5380,8 +5380,8 @@
       "city": "Minato-ku",
       "country": "Japan",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.6580089,
+        "lng": 139.7515137
       },
       "region": "Tokyo"
     },
@@ -5396,8 +5396,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -5411,8 +5411,8 @@
       "city": "Brampton",
       "country": "Canada",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.685832,
+        "lng": -79.7599366
       },
       "state": "Ontario"
     },
@@ -5427,8 +5427,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -5442,8 +5442,8 @@
       "city": "Trujillo",
       "country": "Peru",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -8.1116778,
+        "lng": -79.0287742
       },
       "region": "La Libertad"
     },
@@ -5458,8 +5458,8 @@
       "city": "Tucson",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 32.2228765,
+        "lng": -110.974847
       },
       "state": "Arizona"
     },
@@ -5474,8 +5474,8 @@
       "city": "Philippines",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 12.7503486,
+        "lng": 122.7312101
       }
     },
     "address": "Philippines",
@@ -5489,8 +5489,8 @@
       "city": "Mexico",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 23.6585116,
+        "lng": -102.0077097
       }
     },
     "address": "Mexico",
@@ -5504,8 +5504,8 @@
       "city": "Oklahoma",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.9550817,
+        "lng": -97.2684063
       }
     },
     "address": "Oklahoma, United States",
@@ -5519,8 +5519,8 @@
       "city": "Tuxtla Gutiérrez",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 16.753801,
+        "lng": -93.115959
       },
       "region": "Chiapas"
     },
@@ -5535,8 +5535,8 @@
       "city": "Twin Falls",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.5558542,
+        "lng": -114.4700684
       },
       "state": "Idaho"
     },
@@ -5551,8 +5551,8 @@
       "city": "Mongolia",
       "country": "Mongolia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 46.8250388,
+        "lng": 103.8499736
       }
     },
     "address": "Mongolia",
@@ -5566,8 +5566,8 @@
       "city": "Urdaneta",
       "country": "Philippines",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 15.9759995,
+        "lng": 120.5668992
       },
       "region": "Pangasinan"
     },
@@ -5582,8 +5582,8 @@
       "city": "French Polynesia",
       "country": "French Polynesia",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -17.0243749,
+        "lng": -144.6434898
       }
     },
     "address": "French Polynesia",
@@ -5597,8 +5597,8 @@
       "city": "Nigeria",
       "country": "Nigeria",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 9.6000359,
+        "lng": 7.9999721
       }
     },
     "address": "Nigeria",
@@ -5612,8 +5612,8 @@
       "city": "Langley",
       "country": "Canada",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 49.1039289,
+        "lng": -122.657047
       },
       "state": "British Columbia"
     },
@@ -5628,8 +5628,8 @@
       "city": "Washington",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.8950368,
+        "lng": -77.0365427
       }
     },
     "address": "Washington, United States",
@@ -5643,8 +5643,8 @@
       "city": "Boca del Rio",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 19.1129068,
+        "lng": -96.1118481
       },
       "region": "Veracruz"
     },
@@ -5659,8 +5659,8 @@
       "city": "Vernal",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 40.4556825,
+        "lng": -109.528474
       },
       "state": "Utah"
     },
@@ -5675,8 +5675,8 @@
       "city": "Canada",
       "country": "Canada",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 61.0666922,
+        "lng": -107.991707
       }
     },
     "address": "Canada",
@@ -5690,8 +5690,8 @@
       "city": "Austria",
       "country": "Austria",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 47.59397,
+        "lng": 14.12456
       }
     },
     "address": "Austria",
@@ -5705,8 +5705,8 @@
       "city": "Villahermosa",
       "country": "Mexico",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 17.9884657,
+        "lng": -92.9366326
       },
       "region": "Tabasco"
     },
@@ -5721,8 +5721,8 @@
       "city": "Chile",
       "country": "Chile",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -31.7613365,
+        "lng": -71.3187697
       }
     },
     "address": "Chile",
@@ -5736,8 +5736,8 @@
       "city": "Brazil",
       "country": "Brazil",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -10.3333333,
+        "lng": -53.2
       }
     },
     "address": "Brazil",
@@ -5751,8 +5751,8 @@
       "city": "Kensington",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.0258405,
+        "lng": -77.0750246
       },
       "state": "Maryland"
     },
@@ -5767,8 +5767,8 @@
       "city": "New Zealand",
       "country": "New Zealand",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -41.5000831,
+        "lng": 172.8344077
       }
     },
     "address": "New Zealand",
@@ -5782,8 +5782,8 @@
       "city": "Utah",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.4225192,
+        "lng": -111.714358
       }
     },
     "address": "Utah, United States",
@@ -5797,8 +5797,8 @@
       "city": "Kansas",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.27312,
+        "lng": -98.5821872
       }
     },
     "address": "Kansas, United States",
@@ -5812,8 +5812,8 @@
       "city": "Oregon",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.9792797,
+        "lng": -120.737257
       }
     },
     "address": "Oregon, United States",
@@ -5827,8 +5827,8 @@
       "city": "Virginia",
       "country": "United States",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 37.1232245,
+        "lng": -78.4927721
       }
     },
     "address": "Virginia, United States",
@@ -5842,8 +5842,8 @@
       "city": "Winnipeg",
       "country": "Canada",
       "coordinates": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 49.8955367,
+        "lng": -97.1384584
       },
       "state": "Manitoba"
     },
