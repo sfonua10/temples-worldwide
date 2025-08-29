@@ -169,19 +169,13 @@ function App() {
       allTemples.current = templesWithCoordinates
       
       const geojsonData = {
-        type: 'FeatureCollection',
+        type: 'FeatureCollection' as const,
         features: templesWithCoordinates.map(temple => ({
-          type: 'Feature',
+          type: 'Feature' as const,
           id: temple.id, // This is crucial for feature state to work
-          properties: {
-            id: temple.id,
-            name: temple.name,
-            status: temple.status,
-            address: temple.address,
-            ...(temple as any)
-          },
+          properties: temple,
           geometry: {
-            type: 'Point',
+            type: 'Point' as const,
             coordinates: [temple.location.coordinates.lng, temple.location.coordinates.lat]
           }
         }))
@@ -190,7 +184,7 @@ function App() {
       // Add temples as a source
       map.current!.addSource('temples', {
         type: 'geojson',
-        data: geojsonData as any
+        data: geojsonData
       })
 
       // Add temple layer
