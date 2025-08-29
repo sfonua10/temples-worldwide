@@ -4,7 +4,6 @@ import './App.css'
 import templesData from './data/temples.json'
 import type { Temple } from './types/temple'
 import { TempleInfoPanel } from './components/TempleInfoPanel'
-import { AccessibilitySettings } from './components/AccessibilitySettings'
 
 // Set Mapbox access token
 mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_ACCESS_TOKEN
@@ -13,7 +12,6 @@ function App() {
   const mapContainer = useRef<HTMLDivElement>(null)
   const map = useRef<mapboxgl.Map | null>(null)
   const [selectedTemple, setSelectedTemple] = useState<Temple | null>(null)
-  const [showAccessibilitySettings, setShowAccessibilitySettings] = useState(false)
   const hoveredTempleIdRef = useRef<string | null>(null)
   const selectedTempleIdRef = useRef<string | null>(null)
   const allTemples = useRef<Temple[]>([])
@@ -52,22 +50,6 @@ function App() {
     }
   }
 
-  // Global keyboard shortcuts
-  useEffect(() => {
-    const handleGlobalKeyDown = (e: KeyboardEvent) => {
-      switch (e.key.toLowerCase()) {
-        case 'a':
-          if (!showAccessibilitySettings) {
-            e.preventDefault()
-            setShowAccessibilitySettings(true)
-          }
-          break
-      }
-    }
-
-    window.addEventListener('keydown', handleGlobalKeyDown)
-    return () => window.removeEventListener('keydown', handleGlobalKeyDown)
-  }, [showAccessibilitySettings])
 
   useEffect(() => {
     if (!mapContainer.current) return
@@ -80,15 +62,19 @@ function App() {
       zoom: 3,
       center: [0, 20],
       minZoom: 1,
-      maxZoom: 5
+      maxZoom: 8,
+      scrollZoom: { 
+        around: 'center'
+      }
     })
 
     // The following values can be changed to control rotation speed:
     const secondsPerRevolution = 240 // Rotation speed (doubled from 120 to slow down)
-    const maxSpinZoom = 5 // Max zoom level to spin
+    const maxSpinZoom = 8 // Max zoom level to spin
     const slowSpinZoom = 3 // Zoom level to start slowing down spin
 
     let userInteracting = false
+    let scrollTimeout: ReturnType<typeof setTimeout> | null = null
     const spinEnabled = true
 
     function spinGlobe() {
@@ -121,6 +107,20 @@ function App() {
     map.current.on('touchend', () => {
       userInteracting = false
       spinGlobe()
+    })
+
+    // Pause spinning on scroll wheel zoom
+    map.current.on('wheel', () => {
+      userInteracting = true
+      // Clear any existing timeout
+      if (scrollTimeout) {
+        clearTimeout(scrollTimeout)
+      }
+      // Resume spinning after scroll stops (500ms delay)
+      scrollTimeout = setTimeout(() => {
+        userInteracting = false
+        spinGlobe()
+      }, 500)
     })
 
 
@@ -266,6 +266,9 @@ function App() {
 
     // Clean up on unmount
     return () => {
+      if (scrollTimeout) {
+        clearTimeout(scrollTimeout)
+      }
       map.current?.remove()
     }
   }, [])
@@ -276,18 +279,6 @@ function App() {
     <>
       <div ref={mapContainer} className="map-container" />
       
-      {/* Accessibility Settings Button */}
-      <button 
-        className="accessibility-button"
-        onClick={() => setShowAccessibilitySettings(true)}
-        aria-label="Open accessibility settings"
-        title="Accessibility Settings (A)"
-      >
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <circle cx="12" cy="12" r="3"/>
-          <path d="M12 1v6M12 17v6M4.22 4.22l4.24 4.24M15.54 15.54l4.24 4.24M1 12h6M17 12h6M4.22 19.78l4.24-4.24M15.54 8.46l4.24-4.24"/>
-        </svg>
-      </button>
       
       {/* Enhanced side panel */}
       <TempleInfoPanel 
@@ -303,12 +294,6 @@ function App() {
           }
           setSelectedTemple(null)
         }} 
-      />
-      
-      {/* Accessibility Settings */}
-      <AccessibilitySettings
-        isOpen={showAccessibilitySettings}
-        onClose={() => setShowAccessibilitySettings(false)}
       />
     </>
   )
