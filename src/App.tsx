@@ -13,7 +13,6 @@ function App() {
   const mapContainer = useRef<HTMLDivElement>(null)
   const map = useRef<mapboxgl.Map | null>(null)
   const [selectedTemple, setSelectedTemple] = useState<Temple | null>(null)
-  const [showDetailModal, setShowDetailModal] = useState(false)
   const [showAccessibilitySettings, setShowAccessibilitySettings] = useState(false)
   const hoveredTempleIdRef = useRef<string | null>(null)
   const selectedTempleIdRef = useRef<string | null>(null)
@@ -42,7 +41,6 @@ function App() {
     selectedTempleIdRef.current = temple.id.toString()
     currentTempleIndex.current = index
     setSelectedTemple(temple)
-    setShowDetailModal(true)
     
     // Fly to temple location
     if (map.current) {
@@ -57,9 +55,6 @@ function App() {
   // Global keyboard shortcuts
   useEffect(() => {
     const handleGlobalKeyDown = (e: KeyboardEvent) => {
-      // Don't interfere if modal is open
-      if (showDetailModal) return
-      
       switch (e.key.toLowerCase()) {
         case 'a':
           if (!showAccessibilitySettings) {
@@ -72,7 +67,7 @@ function App() {
 
     window.addEventListener('keydown', handleGlobalKeyDown)
     return () => window.removeEventListener('keydown', handleGlobalKeyDown)
-  }, [showDetailModal, showAccessibilitySettings])
+  }, [showAccessibilitySettings])
 
   useEffect(() => {
     if (!mapContainer.current) return
@@ -89,7 +84,7 @@ function App() {
     })
 
     // The following values can be changed to control rotation speed:
-    const secondsPerRevolution = 120 // Rotation speed
+    const secondsPerRevolution = 240 // Rotation speed (doubled from 120 to slow down)
     const maxSpinZoom = 5 // Max zoom level to spin
     const slowSpinZoom = 3 // Zoom level to start slowing down spin
 
@@ -307,7 +302,6 @@ function App() {
             selectedTempleIdRef.current = null
           }
           setSelectedTemple(null)
-          setShowDetailModal(false)
         }} 
       />
       
