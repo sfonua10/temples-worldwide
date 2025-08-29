@@ -4,6 +4,8 @@ import './App.css'
 import templesData from './data/temples.json'
 import type { Temple } from './types/temple'
 import { TempleInfoPanel } from './components/TempleInfoPanel'
+import { TempleDetailModal } from './components/TempleDetailModal'
+import { AccessibilitySettings } from './components/AccessibilitySettings'
 
 // Set Mapbox access token
 mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_ACCESS_TOKEN
@@ -12,8 +14,92 @@ function App() {
   const mapContainer = useRef<HTMLDivElement>(null)
   const map = useRef<mapboxgl.Map | null>(null)
   const [selectedTemple, setSelectedTemple] = useState<Temple | null>(null)
+  const [showDetailModal, setShowDetailModal] = useState(false)
+  const [showAccessibilitySettings, setShowAccessibilitySettings] = useState(false)
   const hoveredTempleIdRef = useRef<string | null>(null)
   const selectedTempleIdRef = useRef<string | null>(null)
+  const allTemples = useRef<Temple[]>([])
+  const currentTempleIndex = useRef<number>(-1)
+
+  // Navigation functions for TV remote
+  const navigateToTemple = (direction: 'up' | 'down' | 'left' | 'right') => {
+    if (allTemples.current.length === 0) return
+
+    let newIndex = currentTempleIndex.current
+    
+    switch (direction) {
+      case 'left':
+        newIndex = (newIndex - 1 + allTemples.current.length) % allTemples.current.length
+        break
+      case 'right':
+        newIndex = (newIndex + 1) % allTemples.current.length
+        break
+      case 'up':
+        newIndex = Math.max(0, newIndex - 5)
+        break
+      case 'down':
+        newIndex = Math.min(allTemples.current.length - 1, newIndex + 5)
+        break
+    }
+    
+    if (newIndex !== currentTempleIndex.current) {
+      const temple = allTemples.current[newIndex]
+      selectTemple(temple, newIndex)
+    }
+  }
+
+  const selectTemple = (temple: Temple, index: number) => {
+    // Update feature state for previously selected temple
+    if (selectedTempleIdRef.current && map.current) {
+      map.current.setFeatureState(
+        { source: 'temples', id: selectedTempleIdRef.current },
+        { selected: false }
+      )
+    }
+    
+    // Update feature state for newly selected temple
+    if (map.current) {
+      map.current.setFeatureState(
+        { source: 'temples', id: temple.id },
+        { selected: true }
+      )
+    }
+    
+    // Update refs and state
+    selectedTempleIdRef.current = temple.id.toString()
+    currentTempleIndex.current = index
+    setSelectedTemple(temple)
+    setShowDetailModal(true)
+    
+    // Fly to temple location
+    if (map.current) {
+      map.current.flyTo({
+        center: [temple.location.coordinates.lng, temple.location.coordinates.lat],
+        zoom: 4,
+        duration: 2000
+      })
+    }
+  }
+
+  // Global keyboard shortcuts
+  useEffect(() => {
+    const handleGlobalKeyDown = (e: KeyboardEvent) => {
+      // Don't interfere if modal is open
+      if (showDetailModal) return
+      
+      switch (e.key.toLowerCase()) {
+        case 'a':
+          if (!showAccessibilitySettings) {
+            e.preventDefault()
+            setShowAccessibilitySettings(true)
+          }
+          break
+      }
+    }
+
+    window.addEventListener('keydown', handleGlobalKeyDown)
+    return () => window.removeEventListener('keydown', handleGlobalKeyDown)
+  }, [showDetailModal, showAccessibilitySettings])
 
   useEffect(() => {
     if (!mapContainer.current) return
@@ -106,6 +192,9 @@ function App() {
         temple.location.coordinates.lat !== 0.0 && temple.location.coordinates.lng !== 0.0
       )
       
+      // Store temples for navigation
+      allTemples.current = templesWithCoordinates
+      
       const geojsonData = {
         type: 'FeatureCollection',
         features: templesWithCoordinates.map(temple => ({
@@ -164,30 +253,12 @@ function App() {
         const feature = e.features![0]
         const templeData = feature.properties as Temple
         
-        // Update feature state for previously selected temple
-        if (selectedTempleIdRef.current) {
-          map.current!.setFeatureState(
-            { source: 'temples', id: selectedTempleIdRef.current },
-            { selected: false }
-          )
+        // Find temple index in our array
+        const templeIndex = allTemples.current.findIndex(t => t.id === templeData.id)
+        
+        if (templeIndex !== -1) {
+          selectTemple(allTemples.current[templeIndex], templeIndex)
         }
-        
-        // Update feature state for newly selected temple
-        map.current!.setFeatureState(
-          { source: 'temples', id: templeData.id },
-          { selected: true }
-        )
-        
-        // Update refs and state
-        selectedTempleIdRef.current = templeData.id
-        setSelectedTemple(templeData)
-        
-        // Fly to temple location
-        map.current!.flyTo({
-          center: e.lngLat,
-          zoom: 8,
-          duration: 2000
-        })
       })
 
       // Handle hover effects
@@ -238,11 +309,40 @@ function App() {
   }, [])
 
 
+  const handleCloseModal = () => {
+    // Clear selected state when closing modal
+    if (selectedTempleIdRef.current && map.current) {
+      map.current.setFeatureState(
+        { source: 'temples', id: selectedTempleIdRef.current },
+        { selected: false }
+      )
+      selectedTempleIdRef.current = null
+    }
+    setSelectedTemple(null)
+    setShowDetailModal(false)
+    currentTempleIndex.current = -1
+  }
+
   return (
     <>
       <div ref={mapContainer} className="map-container" />
+      
+      {/* Accessibility Settings Button */}
+      <button 
+        className="accessibility-button"
+        onClick={() => setShowAccessibilitySettings(true)}
+        aria-label="Open accessibility settings"
+        title="Accessibility Settings (A)"
+      >
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+          <circle cx="12" cy="12" r="3"/>
+          <path d="M12 1v6M12 17v6M4.22 4.22l4.24 4.24M15.54 15.54l4.24 4.24M1 12h6M17 12h6M4.22 19.78l4.24-4.24M15.54 8.46l4.24-4.24"/>
+        </svg>
+      </button>
+      
+      {/* Enhanced side panel */}
       <TempleInfoPanel 
-        temple={selectedTemple} 
+        temple={selectedTemple}
         onClose={() => {
           // Clear selected state when closing panel
           if (selectedTempleIdRef.current && map.current) {
@@ -253,7 +353,14 @@ function App() {
             selectedTempleIdRef.current = null
           }
           setSelectedTemple(null)
+          setShowDetailModal(false)
         }} 
+      />
+      
+      {/* Accessibility Settings */}
+      <AccessibilitySettings
+        isOpen={showAccessibilitySettings}
+        onClose={() => setShowAccessibilitySettings(false)}
       />
     </>
   )

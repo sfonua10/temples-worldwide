@@ -1,0 +1,257 @@
+.image-gallery {
+  width: 100%;
+  height: 100%;
+}
+
+.gallery-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-image-container {
+  position: relative;
+  flex: 1;
+  overflow: hidden;
+  border-radius: 16px;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.main-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease-in-out;
+}
+
+/* Ken Burns effect - subtle zoom and pan animation */
+.ken-burns {
+  animation: kenBurnsEffect 30s ease-in-out infinite alternate;
+  transform-origin: center center;
+}
+
+@keyframes kenBurnsEffect {
+  0% {
+    transform: scale(1) translate(0, 0);
+  }
+  25% {
+    transform: scale(1.08) translate(-1%, -1%);
+  }
+  50% {
+    transform: scale(1.12) translate(1%, -2%);
+  }
+  75% {
+    transform: scale(1.06) translate(-2%, 1%);
+  }
+  100% {
+    transform: scale(1.1) translate(1%, 0%);
+  }
+}
+
+.image-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.8) 0%,
+    rgba(0, 0, 0, 0.4) 50%,
+    transparent 100%
+  );
+  padding: 32px;
+}
+
+.image-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.image-counter {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: 500;
+}
+
+.image-title {
+  font-size: 18px;
+  color: white;
+  font-weight: 600;
+}
+
+.nav-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 56px;
+  height: 56px;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: white;
+  transition: all 0.3s ease;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.main-image-container:hover .nav-button {
+  opacity: 1;
+  visibility: visible;
+}
+
+.nav-button:hover,
+.nav-button:focus {
+  background: rgba(0, 0, 0, 0.8);
+  border-color: rgba(255, 255, 255, 0.4);
+  transform: translateY(-50%) scale(1.1);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(66, 100, 251, 0.5);
+}
+
+.nav-button.prev {
+  left: 24px;
+}
+
+.nav-button.next {
+  right: 24px;
+}
+
+.thumbnail-strip {
+  display: flex;
+  gap: 12px;
+  padding: 24px 0;
+  overflow-x: auto;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.3) transparent;
+}
+
+.thumbnail-strip::-webkit-scrollbar {
+  height: 6px;
+}
+
+.thumbnail-strip::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+}
+
+.thumbnail-strip::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 3px;
+}
+
+.thumbnail {
+  position: relative;
+  width: 120px;
+  height: 80px;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  flex-shrink: 0;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.thumbnail:hover {
+  border-color: rgba(255, 255, 255, 0.4);
+  transform: scale(1.05);
+}
+
+.thumbnail.active {
+  border-color: rgba(66, 100, 251, 0.8);
+  box-shadow: 0 0 0 2px rgba(66, 100, 251, 0.3);
+}
+
+.thumbnail:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(66, 100, 251, 0.5);
+}
+
+.thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.gallery-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-top: 16px;
+}
+
+.control-button {
+  width: 40px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0.7);
+  transition: all 0.3s ease;
+}
+
+.control-button:hover,
+.control-button:focus {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.4);
+  color: white;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(66, 100, 251, 0.5);
+}
+
+.control-button.active {
+  background: rgba(66, 100, 251, 0.3);
+  border-color: rgba(66, 100, 251, 0.6);
+  color: white;
+}
+
+.control-label {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+  .thumbnail {
+    width: 100px;
+    height: 67px;
+  }
+  
+  .nav-button {
+    width: 48px;
+    height: 48px;
+  }
+  
+  .image-overlay {
+    padding: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .thumbnail {
+    width: 80px;
+    height: 53px;
+  }
+  
+  .thumbnail-strip {
+    padding: 16px 0;
+    gap: 8px;
+  }
+  
+  .image-counter,
+  .image-title {
+    font-size: 14px;
+  }
+}
