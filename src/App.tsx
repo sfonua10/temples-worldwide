@@ -40,11 +40,12 @@ function App() {
     currentTempleIndex.current = index
     setSelectedTemple(temple)
     
-    // Fly to temple location
+    // Fly to temple location (lower zoom on mobile)
     if (map.current) {
+      const flyZoom = window.innerWidth < 768 ? 3 : 4
       map.current.flyTo({
         center: [temple.location.coordinates.lng, temple.location.coordinates.lat],
-        zoom: 4,
+        zoom: flyZoom,
         duration: 2000
       })
     }
@@ -54,12 +55,16 @@ function App() {
   useEffect(() => {
     if (!mapContainer.current) return
 
+    // Use a lower zoom on mobile so the globe isn't too zoomed in
+    const isMobile = window.innerWidth < 768
+    const initialZoom = isMobile ? 1.5 : 3
+
     // Initialize the map
     map.current = new mapboxgl.Map({
       container: mapContainer.current,
       style: 'mapbox://styles/mapbox/streets-v12',
       projection: 'globe', // Display the map as a globe
-      zoom: 3,
+      zoom: initialZoom,
       center: [0, 20],
       minZoom: 1,
       maxZoom: 8,
