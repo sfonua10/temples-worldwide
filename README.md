@@ -1,18 +1,25 @@
+<div align="center">
+
 # Temples Worldwide
 
-An interactive 3D globe visualization showing temples of The Church of Jesus Christ of Latter-day Saints around the world.
+An interactive 3D globe visualization showing temples of
+The Church of Jesus Christ of Latter-day Saints around the world.
+
+[**View Live Demo**](https://templesworldwide.netlify.app/)
+
+</div>
 
 ## Overview
 
-This project provides an immersive way to explore temple locations globally using Mapbox GL JS with a 3D globe view. Users can interact with the globe to discover temples in different regions and learn more about each location.
+Explore temple locations globally using an immersive Mapbox GL JS 3D globe view. Rotate, zoom, and interact with the globe to discover temples across different regions.
 
 ## Features
 
 - 🌍 Interactive 3D globe with continuous rotation
 - 🏛️ Temple locations marked on the globe (coming soon)
-- 📍 Click on temple markers to view detailed information (coming soon)
-- 🔍 Zoom and pan to explore specific regions
-- 📱 Responsive design for desktop and mobile devices
+- 📍 Click on markers for temple details (coming soon)
+- 🔍 Zoom and pan to explore regions
+- 📱 Responsive on desktop and mobile
 
 ## Getting Started
 
@@ -37,15 +44,15 @@ npm install
 
 3. Set up your Mapbox access token:
    - Copy `.env.example` to `.env`
-   - Replace `your_mapbox_access_token_here` with your actual Mapbox token
-   - You can get a free token at [https://www.mapbox.com/](https://www.mapbox.com/)
+   - Add your Mapbox token
+   - Get a free token at [mapbox.com](https://www.mapbox.com/)
 
-4. Run the development server:
+4. Start the dev server:
 ```bash
 npm run dev
 ```
 
-5. Open your browser to `http://localhost:5173`
+5. Open `http://localhost:5173`
 
 ## Development
 
@@ -68,13 +75,8 @@ npm run dev
 
 - [ ] Add temple location data with coordinates
 - [ ] Implement temple markers on the globe
-- [ ] Create popup components with temple information:
-  - Temple name
-  - Dedication date
-  - Address
-  - Photo
-  - Operating status
-- [ ] Add search functionality to find specific temples
+- [ ] Create temple info popups (name, date, address, photo, status)
+- [ ] Add search functionality
 - [ ] Implement filtering by region or status
 - [ ] Add temple statistics dashboard
 - [ ] Include historical timeline of temple dedications
@@ -90,5 +92,5 @@ This project is for educational and non-commercial use.
 ## Acknowledgments
 
 - Temple data sourced from publicly available information
-- Built with Mapbox GL JS
-- Inspired by the global reach of The Church of Jesus Christ of Latter-day Saints# temples-worldwide
+- Built with [Mapbox GL JS](https://www.mapbox.com/)
+- Inspired by the global reach of The Church of Jesus Christ of Latter-day Saints
