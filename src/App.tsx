@@ -102,16 +102,24 @@ function App() {
       userInteracting = true
     })
 
+    // Pause spinning on touch start (critical for mobile)
+    map.current.on('touchstart', () => {
+      userInteracting = true
+    })
+
     // Resume spinning when user is done interacting
     map.current.on('mouseup', () => {
       userInteracting = false
       spinGlobe()
     })
 
-    // Resume spinning on touch end
+    // Resume spinning on touch end with a small delay
+    // so the globe doesn't immediately fight the user's last gesture
     map.current.on('touchend', () => {
-      userInteracting = false
-      spinGlobe()
+      setTimeout(() => {
+        userInteracting = false
+        spinGlobe()
+      }, 300)
     })
 
     // Pause spinning on scroll wheel zoom
@@ -187,7 +195,9 @@ function App() {
         data: geojsonData
       })
 
-      // Add temple layer
+      // Add temple layer (larger touch targets on mobile)
+      const baseRadius = isMobile ? 7 : 4
+      const activeRadius = isMobile ? 10 : 6
       map.current!.addLayer({
         id: 'temple-layer',
         type: 'circle',
@@ -196,10 +206,10 @@ function App() {
           'circle-radius': [
             'case',
             ['boolean', ['feature-state', 'selected'], false],
-            6,
+            activeRadius,
             ['boolean', ['feature-state', 'hover'], false],
-            6,
-            4
+            activeRadius,
+            baseRadius
           ],
           'circle-color': [
             'case',
