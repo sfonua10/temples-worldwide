@@ -1,5 +1,7 @@
 # Temples Worldwide
 
+**Live Demo:** [https://templesworldwide.netlify.app/](https://templesworldwide.netlify.app/)
+
 An interactive 3D globe visualization showing temples of The Church of Jesus Christ of Latter-day Saints around the world.
 
 ## Overview
